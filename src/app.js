@@ -54,14 +54,16 @@ function game() {
       .toLowerCase();
   }
 
+  // play five round game
   for (let i = 0; i < 5; i += 1) {
     const userSelection = getPlayerSelection();
     const computerSelection = getcomputerSelection();
 
+    // display result of rounds
     console.log(playRound(computerSelection, userSelection));
     console.log(`${userScore}:${computerScore}`);
   }
-
+  // display result of game
   if (userScore > computerScore) {
     return `Congratulations! You won the game ${userScore} rounds to ${computerScore}`;
   }
