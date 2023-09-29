@@ -615,9 +615,10 @@ function playRound(computerSelection, playerSelection) {
 }
 //
 function game() {
+    // set both player scores to 0
     userScore = 0;
     computerScore = 0;
-    // randomly select compuet=r choice from array
+    // randomly select computerr choice from array
     function getcomputerSelection() {
         return choices[Math.floor(Math.random() * choices.length)];
     }
@@ -629,8 +630,9 @@ function game() {
     for(let i = 0; i < 5; i += 1){
         const userSelection = getPlayerSelection();
         const computerSelection = getcomputerSelection();
-        // display result of rounds
+        // play round and display result message
         console.log(playRound(computerSelection, userSelection));
+        // display running game score
         console.log(`${userScore}:${computerScore}`);
     }
     // display result of game
