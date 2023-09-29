@@ -613,7 +613,6 @@ function playRound(computerSelection, playerSelection) {
     }
     return drawMsg;
 }
-//
 function game() {
     // set both player scores to 0
     userScore = 0;
@@ -622,22 +621,42 @@ function game() {
     function getcomputerSelection() {
         return choices[Math.floor(Math.random() * choices.length)];
     }
-    // prompt user for their choice (rock/paper/scissors)
-    function getPlayerSelection() {
-        return window.prompt("Make your selection (rock/paper/scissors)").toLowerCase();
+    function endGame() {
+        if (userScore > computerScore) return `Congratulations! You won the game ${userScore} rounds to ${computerScore}`;
+        return `You lost the game ${computerScore} rounds to ${userScore}`;
     }
-    // play five round game
-    for(let i = 0; i < 5; i += 1){
-        const userSelection = getPlayerSelection();
+    function checkScore() {
+        if (userScore === 5 || computerScore === 5) console.log(endGame());
+    }
+    function playRock() {
         const computerSelection = getcomputerSelection();
-        // play round and display result message
-        console.log(playRound(computerSelection, userSelection));
+        console.log(playRound(computerSelection, "rock"));
         // display running game score
         console.log(`${userScore}:${computerScore}`);
+        console.log(checkScore());
     }
-    // display result of game
-    if (userScore > computerScore) return `Congratulations! You won the game ${userScore} rounds to ${computerScore}`;
-    return `You lost the game ${computerScore} rounds to ${userScore}`;
+    function playPaper() {
+        const computerSelection = getcomputerSelection();
+        console.log(playRound(computerSelection, "paper"));
+        // display running game score
+        console.log(`${userScore}:${computerScore}`);
+        console.log(checkScore());
+    }
+    function playScissors() {
+        const computerSelection = getcomputerSelection();
+        console.log(playRound(computerSelection, "scissors"));
+        // display running game score
+        console.log(`${userScore}:${computerScore}`);
+        console.log(checkScore());
+    }
+    // add event listeners to choice buttons
+    const btnRock = document.getElementById("btn-rock");
+    const btnPaper = document.getElementById("btn-paper");
+    const btnScissors = document.getElementById("btn-scissors");
+    // call functions when rock, p[aper, scissor buttons are clicked
+    btnRock.addEventListener("click", playRock);
+    btnPaper.addEventListener("click", playPaper);
+    btnScissors.addEventListener("click", playScissors);
 }
 console.log(game());
 
