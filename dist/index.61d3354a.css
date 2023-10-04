@@ -280,30 +280,80 @@ img, video {
   margin-right: auto;
 }
 
+.mb-36 {
+  margin-bottom: 9rem;
+}
+
+.mt-10 {
+  margin-top: 2.5rem;
+}
+
 .mt-16 {
   margin-top: 4rem;
 }
 
-.mt-20 {
-  margin-top: 5rem;
+.mt-6 {
+  margin-top: 1.5rem;
 }
 
-.rounded-full {
-  border-radius: 9999px;
+.mt-8 {
+  margin-top: 2rem;
 }
 
-.bg-primary {
-  --tw-bg-opacity: 1;
-  background-color: rgb(230 215 14 / var(--tw-bg-opacity));
+.flex {
+  display: flex;
 }
 
-.px-4 {
-  padding-left: 1rem;
-  padding-right: 1rem;
+.h-16 {
+  height: 4rem;
+}
+
+.h-24 {
+  height: 6rem;
+}
+
+.h-28 {
+  height: 7rem;
+}
+
+.justify-center {
+  justify-content: center;
+}
+
+.gap-16 {
+  gap: 4rem;
+}
+
+.gap-2 {
+  gap: .5rem;
+}
+
+.gap-32 {
+  gap: 8rem;
 }
 
 .text-center {
   text-align: center;
+}
+
+.text-2xl {
+  font-size: 1.5rem;
+  line-height: 2rem;
+}
+
+.text-3xl {
+  font-size: 1.875rem;
+  line-height: 2.25rem;
+}
+
+.text-5xl {
+  font-size: 3rem;
+  line-height: 1;
+}
+
+.text-8xl {
+  font-size: 6rem;
+  line-height: 1;
 }
 
 /*# sourceMappingURL=index.61d3354a.css.map */
