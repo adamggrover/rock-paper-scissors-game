@@ -280,10 +280,6 @@ img, video {
   margin-right: auto;
 }
 
-.mb-36 {
-  margin-bottom: 9rem;
-}
-
 .mt-10 {
   margin-top: 2.5rem;
 }
@@ -300,12 +296,12 @@ img, video {
   margin-top: 2rem;
 }
 
-.flex {
-  display: flex;
+.block {
+  display: block;
 }
 
-.h-16 {
-  height: 4rem;
+.flex {
+  display: flex;
 }
 
 .h-24 {
@@ -348,11 +344,6 @@ img, video {
 
 .text-5xl {
   font-size: 3rem;
-  line-height: 1;
-}
-
-.text-8xl {
-  font-size: 6rem;
   line-height: 1;
 }
 

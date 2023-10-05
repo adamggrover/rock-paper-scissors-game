@@ -1,3 +1,9 @@
+// import images
+import rock from './assets/icons/rock.png';
+import paper from './assets/icons/paper.png';
+import scissors from './assets/icons/scissors.png';
+import question from './assets/icons/question.png';
+
 // initilise variables
 const choices = ['rock', 'paper', 'scissors'];
 let userScore = 0;
@@ -53,7 +59,7 @@ function game() {
   // add event listeners to choice buttons
   const UserChoiceButtons = document.querySelectorAll('.user-selection-btn');
 
-  // play round msg container
+  // target items
   const msgRoundContainer = document.querySelector('.msg-round-container');
   const msgRoundContainerSummary = document.querySelector(
     '.msg-round-container-summary'
@@ -89,9 +95,37 @@ function game() {
       msgRoundContainerSummary.textContent = roundResults[1];
 
       userScoreContainer.textContent = userScore;
-      userChoiceImg.src = `./assets/icons/${roundResults[3]}.png`;
+
       computerScoreContainer.textContent = computerScore;
       computerChoiceImg.src = `./assets/icons/${roundResults[2]}.png`;
+
+      switch (userChoice) {
+        case 'rock':
+          userChoiceImg.src = rock;
+          break;
+        case 'paper':
+          userChoiceImg.src = paper;
+          break;
+        case 'scissors':
+          userChoiceImg.src = scissors;
+          break;
+        default:
+          userChoiceImg.src = question;
+      }
+
+      switch (computerSelection) {
+        case 'rock':
+          computerChoiceImg.src = rock;
+          break;
+        case 'paper':
+          computerChoiceImg.src = paper;
+          break;
+        case 'scissors':
+          computerChoiceImg.src = scissors;
+          break;
+        default:
+          computerChoiceImg.src = question;
+      }
 
       checkScore();
     }

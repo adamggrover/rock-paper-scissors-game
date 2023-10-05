@@ -574,6 +574,16 @@ function hmrAccept(bundle /*: ParcelRequire */ , id /*: string */ ) {
 }
 
 },{}],"bNKaB":[function(require,module,exports) {
+// import images
+var parcelHelpers = require("@parcel/transformer-js/src/esmodule-helpers.js");
+var _rockPng = require("./assets/icons/rock.png");
+var _rockPngDefault = parcelHelpers.interopDefault(_rockPng);
+var _paperPng = require("./assets/icons/paper.png");
+var _paperPngDefault = parcelHelpers.interopDefault(_paperPng);
+var _scissorsPng = require("./assets/icons/scissors.png");
+var _scissorsPngDefault = parcelHelpers.interopDefault(_scissorsPng);
+var _questionPng = require("./assets/icons/question.png");
+var _questionPngDefault = parcelHelpers.interopDefault(_questionPng);
 // initilise variables
 const choices = [
     "rock",
@@ -661,7 +671,7 @@ function game() {
     computerScore = 0;
     // add event listeners to choice buttons
     const UserChoiceButtons = document.querySelectorAll(".user-selection-btn");
-    // play round msg container
+    // target items
     const msgRoundContainer = document.querySelector(".msg-round-container");
     const msgRoundContainerSummary = document.querySelector(".msg-round-container-summary");
     const msgGameContainer = document.querySelector(".msg-game-container");
@@ -684,9 +694,34 @@ function game() {
             msgRoundContainer.textContent = roundResults[0];
             msgRoundContainerSummary.textContent = roundResults[1];
             userScoreContainer.textContent = userScore;
-            userChoiceImg.src = `./assets/icons/${roundResults[3]}.png`;
             computerScoreContainer.textContent = computerScore;
             computerChoiceImg.src = `./assets/icons/${roundResults[2]}.png`;
+            switch(userChoice){
+                case "rock":
+                    userChoiceImg.src = (0, _rockPngDefault.default);
+                    break;
+                case "paper":
+                    userChoiceImg.src = (0, _paperPngDefault.default);
+                    break;
+                case "scissors":
+                    userChoiceImg.src = (0, _scissorsPngDefault.default);
+                    break;
+                default:
+                    userChoiceImg.src = (0, _questionPngDefault.default);
+            }
+            switch(computerSelection){
+                case "rock":
+                    computerChoiceImg.src = (0, _rockPngDefault.default);
+                    break;
+                case "paper":
+                    computerChoiceImg.src = (0, _paperPngDefault.default);
+                    break;
+                case "scissors":
+                    computerChoiceImg.src = (0, _scissorsPngDefault.default);
+                    break;
+                default:
+                    computerChoiceImg.src = (0, _questionPngDefault.default);
+            }
             checkScore();
         }
     // display running game score
@@ -699,6 +734,83 @@ function game() {
 }
 game(); // display results
 
-},{}]},["hklly","bNKaB"], "bNKaB", "parcelRequireee27")
+},{"./assets/icons/rock.png":"5j96T","./assets/icons/paper.png":"8WSrg","./assets/icons/scissors.png":"akPIr","@parcel/transformer-js/src/esmodule-helpers.js":"gkKU3","./assets/icons/question.png":"lMj2h"}],"5j96T":[function(require,module,exports) {
+module.exports = require("619baeae74b388fa").getBundleURL("lPpKD") + "rock.d83ea0b4.png" + "?" + Date.now();
+
+},{"619baeae74b388fa":"lgJ39"}],"lgJ39":[function(require,module,exports) {
+"use strict";
+var bundleURL = {};
+function getBundleURLCached(id) {
+    var value = bundleURL[id];
+    if (!value) {
+        value = getBundleURL();
+        bundleURL[id] = value;
+    }
+    return value;
+}
+function getBundleURL() {
+    try {
+        throw new Error();
+    } catch (err) {
+        var matches = ("" + err.stack).match(/(https?|file|ftp|(chrome|moz|safari-web)-extension):\/\/[^)\n]+/g);
+        if (matches) // The first two stack frames will be this function and getBundleURLCached.
+        // Use the 3rd one, which will be a runtime in the original bundle.
+        return getBaseURL(matches[2]);
+    }
+    return "/";
+}
+function getBaseURL(url) {
+    return ("" + url).replace(/^((?:https?|file|ftp|(chrome|moz|safari-web)-extension):\/\/.+)\/[^/]+$/, "$1") + "/";
+}
+// TODO: Replace uses with `new URL(url).origin` when ie11 is no longer supported.
+function getOrigin(url) {
+    var matches = ("" + url).match(/(https?|file|ftp|(chrome|moz|safari-web)-extension):\/\/[^/]+/);
+    if (!matches) throw new Error("Origin not found");
+    return matches[0];
+}
+exports.getBundleURL = getBundleURLCached;
+exports.getBaseURL = getBaseURL;
+exports.getOrigin = getOrigin;
+
+},{}],"8WSrg":[function(require,module,exports) {
+module.exports = require("95af7e90ff5602ea").getBundleURL("lPpKD") + "paper.9e961607.png" + "?" + Date.now();
+
+},{"95af7e90ff5602ea":"lgJ39"}],"akPIr":[function(require,module,exports) {
+module.exports = require("72e53d192f5eb5d1").getBundleURL("lPpKD") + "scissors.68e75d14.png" + "?" + Date.now();
+
+},{"72e53d192f5eb5d1":"lgJ39"}],"gkKU3":[function(require,module,exports) {
+exports.interopDefault = function(a) {
+    return a && a.__esModule ? a : {
+        default: a
+    };
+};
+exports.defineInteropFlag = function(a) {
+    Object.defineProperty(a, "__esModule", {
+        value: true
+    });
+};
+exports.exportAll = function(source, dest) {
+    Object.keys(source).forEach(function(key) {
+        if (key === "default" || key === "__esModule" || dest.hasOwnProperty(key)) return;
+        Object.defineProperty(dest, key, {
+            enumerable: true,
+            get: function() {
+                return source[key];
+            }
+        });
+    });
+    return dest;
+};
+exports.export = function(dest, destName, get) {
+    Object.defineProperty(dest, destName, {
+        enumerable: true,
+        get: get
+    });
+};
+
+},{}],"lMj2h":[function(require,module,exports) {
+module.exports = require("52fbe554d07ddad3").getBundleURL("lPpKD") + "question.fb1d66bc.png" + "?" + Date.now();
+
+},{"52fbe554d07ddad3":"lgJ39"}]},["hklly","bNKaB"], "bNKaB", "parcelRequireee27")
 
 //# sourceMappingURL=index.0641b553.js.map
