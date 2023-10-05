@@ -4,6 +4,33 @@ import paper from './assets/icons/paper.png';
 import scissors from './assets/icons/scissors.png';
 import question from './assets/icons/question.png';
 
+// Get the modal
+const modal = document.getElementById('myModal');
+
+// get the play again button
+const playAgainBtn = document.querySelector('.btn-play-again');
+
+const userChoiceImg = document.querySelector('.user-choice-img');
+const computerChoiceImg = document.querySelector('.computer-choice-img');
+
+const userScoreContainer = document.querySelector('.user-score-text');
+const computerScoreContainer = document.querySelector('.computer-score-text');
+
+function playAgain() {
+  modal.style.display = 'none';
+  userChoiceImg.src = question;
+  computerChoiceImg.src = question;
+  userScore = 0;
+  computerScore = 0;
+  userScoreContainer.textContent = 0;
+
+  computerScoreContainer.textContent = 0;
+}
+
+playAgainBtn.addEventListener('click', () => {
+  playAgain();
+});
+
 // initilise variables
 const choices = ['rock', 'paper', 'scissors'];
 let userScore = 0;
@@ -66,12 +93,9 @@ function game() {
   );
   const msgGameContainer = document.querySelector('.msg-game-container');
   const scoreContainer = document.querySelector('.score-container');
-  const userScoreContainer = document.querySelector('.user-score-text');
-  const computerScoreContainer = document.querySelector('.computer-score-text');
-  const userChoiceImg = document.querySelector('.user-choice-img');
-  const computerChoiceImg = document.querySelector('.computer-choice-img');
 
   function endGame() {
+    modal.style.display = 'block';
     if (userScore > computerScore) {
       msgGameContainer.textContent = `Congratulations! You won the game ${userScore} rounds to ${computerScore}`;
     } else {
@@ -97,7 +121,6 @@ function game() {
       userScoreContainer.textContent = userScore;
 
       computerScoreContainer.textContent = computerScore;
-      computerChoiceImg.src = `./assets/icons/${roundResults[2]}.png`;
 
       switch (userChoice) {
         case 'rock':

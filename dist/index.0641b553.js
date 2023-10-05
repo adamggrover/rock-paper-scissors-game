@@ -584,6 +584,26 @@ var _scissorsPng = require("./assets/icons/scissors.png");
 var _scissorsPngDefault = parcelHelpers.interopDefault(_scissorsPng);
 var _questionPng = require("./assets/icons/question.png");
 var _questionPngDefault = parcelHelpers.interopDefault(_questionPng);
+// Get the modal
+const modal = document.getElementById("myModal");
+// get the play again button
+const playAgainBtn = document.querySelector(".btn-play-again");
+const userChoiceImg = document.querySelector(".user-choice-img");
+const computerChoiceImg = document.querySelector(".computer-choice-img");
+const userScoreContainer = document.querySelector(".user-score-text");
+const computerScoreContainer = document.querySelector(".computer-score-text");
+function playAgain() {
+    modal.style.display = "none";
+    userChoiceImg.src = (0, _questionPngDefault.default);
+    computerChoiceImg.src = (0, _questionPngDefault.default);
+    userScore = 0;
+    computerScore = 0;
+    userScoreContainer.textContent = 0;
+    computerScoreContainer.textContent = 0;
+}
+playAgainBtn.addEventListener("click", ()=>{
+    playAgain();
+});
 // initilise variables
 const choices = [
     "rock",
@@ -676,11 +696,8 @@ function game() {
     const msgRoundContainerSummary = document.querySelector(".msg-round-container-summary");
     const msgGameContainer = document.querySelector(".msg-game-container");
     const scoreContainer = document.querySelector(".score-container");
-    const userScoreContainer = document.querySelector(".user-score-text");
-    const computerScoreContainer = document.querySelector(".computer-score-text");
-    const userChoiceImg = document.querySelector(".user-choice-img");
-    const computerChoiceImg = document.querySelector(".computer-choice-img");
     function endGame() {
+        modal.style.display = "block";
         if (userScore > computerScore) msgGameContainer.textContent = `Congratulations! You won the game ${userScore} rounds to ${computerScore}`;
         else msgGameContainer.textContent = `You lost the game ${computerScore} rounds to ${userScore}`;
     }
@@ -695,7 +712,6 @@ function game() {
             msgRoundContainerSummary.textContent = roundResults[1];
             userScoreContainer.textContent = userScore;
             computerScoreContainer.textContent = computerScore;
-            computerChoiceImg.src = `./assets/icons/${roundResults[2]}.png`;
             switch(userChoice){
                 case "rock":
                     userChoiceImg.src = (0, _rockPngDefault.default);
