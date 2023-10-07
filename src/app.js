@@ -10,31 +10,55 @@ const modal = document.getElementById('myModal');
 // get the play again button
 const playAgainBtn = document.querySelector('.btn-play-again');
 
+// get the player selection images
 const userChoiceImg = document.querySelector('.user-choice-img');
 const computerChoiceImg = document.querySelector('.computer-choice-img');
 
+// target items
+const msgRoundContainer = document.querySelector('.msg-round-container');
+const msgRoundContainerSummary = document.querySelector(
+  '.msg-round-container-summary'
+);
+const msgGameContainer = document.querySelector('.msg-game-container');
+const scoreContainer = document.querySelector('.score-container');
+const startPointsMsg = 'First player to 5 points wins';
+const startSelectionMsg = 'make your selection';
+
+function setStartMsg() {
+  msgRoundContainer.textContent = startPointsMsg;
+  msgRoundContainerSummary.textContent = startSelectionMsg;
+}
+
+// get the player score containers
 const userScoreContainer = document.querySelector('.user-score-text');
 const computerScoreContainer = document.querySelector('.computer-score-text');
 
+// choices array for player selections
+const choices = ['rock', 'paper', 'scissors'];
+
+// initilise player score variables
+let userScore = 0;
+let computerScore = 0;
+
 function playAgain() {
+  // close modal
   modal.style.display = 'none';
+  // set player choice images to question marks
   userChoiceImg.src = question;
   computerChoiceImg.src = question;
+  // reset player scores
   userScore = 0;
   computerScore = 0;
+  // update player score text containers on page
   userScoreContainer.textContent = 0;
-
   computerScoreContainer.textContent = 0;
+
+  setStartMsg();
 }
 
 playAgainBtn.addEventListener('click', () => {
   playAgain();
 });
-
-// initilise variables
-const choices = ['rock', 'paper', 'scissors'];
-let userScore = 0;
-let computerScore = 0;
 
 // randomly select computerr choice from array
 function getcomputerSelection() {
@@ -83,23 +107,17 @@ function game() {
   userScore = 0;
   computerScore = 0;
 
+  setStartMsg();
+
   // add event listeners to choice buttons
   const UserChoiceButtons = document.querySelectorAll('.user-selection-btn');
-
-  // target items
-  const msgRoundContainer = document.querySelector('.msg-round-container');
-  const msgRoundContainerSummary = document.querySelector(
-    '.msg-round-container-summary'
-  );
-  const msgGameContainer = document.querySelector('.msg-game-container');
-  const scoreContainer = document.querySelector('.score-container');
 
   function endGame() {
     modal.style.display = 'block';
     if (userScore > computerScore) {
-      msgGameContainer.textContent = `Congratulations! You won the game ${userScore} rounds to ${computerScore}`;
+      msgGameContainer.textContent = `You Won!`;
     } else {
-      msgGameContainer.textContent = `You lost the game ${computerScore} rounds to ${userScore}`;
+      msgGameContainer.textContent = `You Lost!`;
     }
   }
 

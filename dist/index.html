@@ -10,38 +10,48 @@
     <link rel="stylesheet" href="/index.61d3354a.css">
 </head>
 <body>
-    <div class="container mx-auto text-center mt-8">
-        <h1 class="text-5xl">Rock Paper Scissors</h1>
+    <div class="container mx-auto text-center min-h-screen">
+        <div>
+            <h1 class="text-5xl bg-blue-950 text-primary p-8 font-mono font-bold">Rock Paper Scissors</h1>
+        </div>
         
-        <p class="text-3xl mt-8 msg-round-container">First player to 5 points wins</p>
+        <div class="bg-gray-200 text-gray-900 font-mono py-10">
+            <p class="text-2xl msg-round-container"></p>
 
-        <h2 class="text-2xl mt-6 msg-round-container-summary">make your selection</h2>
+            <h2 class="text-xl mt-6 msg-round-container-summary"></h2>
 
-        <div class="flex justify-center mt-16 text-2xl gap-32">
-            <div class="">
-                <img src="/question.fb1d66bc.png" class=" user-choice-img h-24">
-                <div class="flex gap-2 justify-center mt-6">
-                    <p class="">User: </p><p class="user-score-text">0</p><p></p>
+            <div class="max-w-xs mt-16 text-2xl grid grid-cols-2 mx-auto gap-12 px-4">
+
+                <div class="">
+                    <img src="/question.fb1d66bc.png" class="p-4 user-choice-img">
+                    <div class="flex gap-2 justify-center mt-6">
+                        <p class="">Player: </p><p class="user-score-text">0</p><p></p>
+                    </div>
+                    
                 </div>
-                
+
+                <div class="">
+                    <img src="/question.fb1d66bc.png" class="p-4 computer-choice-img">
+                    <div class="flex gap-2 justify-center mt-6">
+                        <p class="">Computer: </p><p class="computer-score-text">0</p><p></p>
+                    </div>
+                    
+                </div>
             </div>
 
-            <div class="">
-                <img src="/question.fb1d66bc.png" class="h-24 computer-choice-img">
-                <div class="flex gap-2 justify-center mt-6">
-                    <p class="">User: </p><p class="computer-score-text">0</p><p></p>
-                </div>
-                
+
+
+            <div class="grid grid-cols-3 max-w-sm mt-16 mx-auto gap-2 px-4">
+                <button value="rock" class="user-selection-btn btn"><img src="/rock.d83ea0b4.png" class=""></button>
+                <button value="paper" class="user-selection-btn btn"><img src="/paper.9e961607.png" alt="" class=""></button>
+                <button value="scissors" class="user-selection-btn btn"><img src="/scissors.68e75d14.png" alt="" class=""></button>
             </div>
+
+
+            <p class="mt-24 text-xs font-extralight text-center">&#169 Adam Grover 2023</p>
+
         </div>
-
-
-
-        <div class="flex mt-16 gap-16 justify-center">
-            <button value="rock" class="user-selection-btn"><img src="/rock.d83ea0b4.png" class="h-28"></button>
-            <button value="paper" class="user-selection-btn"><img src="/paper.9e961607.png" alt="" class="h-28"></button>
-            <button value="scissors" class="user-selection-btn"><img src="/scissors.68e75d14.png" alt="" class="h-28"></button>
-        </div>
+        
 
     
 
@@ -55,23 +65,18 @@
             
 
 
-        </div>
 
-
-
-
-    
 
     <!-- The Modal -->
     <div id="myModal" class="modal">
 
         <!-- Modal content -->
-        <div class="modal-content">
+        <div class="modal-content bg-gray-50 mx-auto mt-20 p-10 w-fit rounded-md font-mono">
         
-        <p class="msg-game-container text-xl mt-10">
+        <p class="msg-game-container text-4xl">
     
         </p>
-        <button class="btn-play-again">Play Again</button>
+        <button class="btn-play-again rounded-md bg-primary p-4 mt-10 btn">Play Again</button>
         </div>
   
      </div>
@@ -80,5 +85,5 @@
 
 
 
-</body>
+</div></body>
 </html>

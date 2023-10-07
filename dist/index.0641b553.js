@@ -588,30 +588,49 @@ var _questionPngDefault = parcelHelpers.interopDefault(_questionPng);
 const modal = document.getElementById("myModal");
 // get the play again button
 const playAgainBtn = document.querySelector(".btn-play-again");
+// get the player selection images
 const userChoiceImg = document.querySelector(".user-choice-img");
 const computerChoiceImg = document.querySelector(".computer-choice-img");
+// target items
+const msgRoundContainer = document.querySelector(".msg-round-container");
+const msgRoundContainerSummary = document.querySelector(".msg-round-container-summary");
+const msgGameContainer = document.querySelector(".msg-game-container");
+const scoreContainer = document.querySelector(".score-container");
+const startPointsMsg = "First player to 5 points wins";
+const startSelectionMsg = "make your selection";
+function setStartMsg() {
+    msgRoundContainer.textContent = startPointsMsg;
+    msgRoundContainerSummary.textContent = startSelectionMsg;
+}
+// get the player score containers
 const userScoreContainer = document.querySelector(".user-score-text");
 const computerScoreContainer = document.querySelector(".computer-score-text");
-function playAgain() {
-    modal.style.display = "none";
-    userChoiceImg.src = (0, _questionPngDefault.default);
-    computerChoiceImg.src = (0, _questionPngDefault.default);
-    userScore = 0;
-    computerScore = 0;
-    userScoreContainer.textContent = 0;
-    computerScoreContainer.textContent = 0;
-}
-playAgainBtn.addEventListener("click", ()=>{
-    playAgain();
-});
-// initilise variables
+// choices array for player selections
 const choices = [
     "rock",
     "paper",
     "scissors"
 ];
+// initilise player score variables
 let userScore = 0;
 let computerScore = 0;
+function playAgain() {
+    // close modal
+    modal.style.display = "none";
+    // set player choice images to question marks
+    userChoiceImg.src = (0, _questionPngDefault.default);
+    computerChoiceImg.src = (0, _questionPngDefault.default);
+    // reset player scores
+    userScore = 0;
+    computerScore = 0;
+    // update player score text containers on page
+    userScoreContainer.textContent = 0;
+    computerScoreContainer.textContent = 0;
+    setStartMsg();
+}
+playAgainBtn.addEventListener("click", ()=>{
+    playAgain();
+});
 // randomly select computerr choice from array
 function getcomputerSelection() {
     return choices[Math.floor(Math.random() * choices.length)];
@@ -689,17 +708,13 @@ function game() {
     // set both player scores to 0
     userScore = 0;
     computerScore = 0;
+    setStartMsg();
     // add event listeners to choice buttons
     const UserChoiceButtons = document.querySelectorAll(".user-selection-btn");
-    // target items
-    const msgRoundContainer = document.querySelector(".msg-round-container");
-    const msgRoundContainerSummary = document.querySelector(".msg-round-container-summary");
-    const msgGameContainer = document.querySelector(".msg-game-container");
-    const scoreContainer = document.querySelector(".score-container");
     function endGame() {
         modal.style.display = "block";
-        if (userScore > computerScore) msgGameContainer.textContent = `Congratulations! You won the game ${userScore} rounds to ${computerScore}`;
-        else msgGameContainer.textContent = `You lost the game ${computerScore} rounds to ${userScore}`;
+        if (userScore > computerScore) msgGameContainer.textContent = `You Won!`;
+        else msgGameContainer.textContent = `You Lost!`;
     }
     function checkScore() {
         if (userScore === 5 || computerScore === 5) endGame();
@@ -750,7 +765,7 @@ function game() {
 }
 game(); // display results
 
-},{"./assets/icons/rock.png":"5j96T","./assets/icons/paper.png":"8WSrg","./assets/icons/scissors.png":"akPIr","@parcel/transformer-js/src/esmodule-helpers.js":"gkKU3","./assets/icons/question.png":"lMj2h"}],"5j96T":[function(require,module,exports) {
+},{"./assets/icons/rock.png":"5j96T","./assets/icons/paper.png":"8WSrg","./assets/icons/scissors.png":"akPIr","./assets/icons/question.png":"lMj2h","@parcel/transformer-js/src/esmodule-helpers.js":"gkKU3"}],"5j96T":[function(require,module,exports) {
 module.exports = require("619baeae74b388fa").getBundleURL("lPpKD") + "rock.d83ea0b4.png" + "?" + Date.now();
 
 },{"619baeae74b388fa":"lgJ39"}],"lgJ39":[function(require,module,exports) {
@@ -794,7 +809,10 @@ module.exports = require("95af7e90ff5602ea").getBundleURL("lPpKD") + "paper.9e96
 },{"95af7e90ff5602ea":"lgJ39"}],"akPIr":[function(require,module,exports) {
 module.exports = require("72e53d192f5eb5d1").getBundleURL("lPpKD") + "scissors.68e75d14.png" + "?" + Date.now();
 
-},{"72e53d192f5eb5d1":"lgJ39"}],"gkKU3":[function(require,module,exports) {
+},{"72e53d192f5eb5d1":"lgJ39"}],"lMj2h":[function(require,module,exports) {
+module.exports = require("52fbe554d07ddad3").getBundleURL("lPpKD") + "question.fb1d66bc.png" + "?" + Date.now();
+
+},{"52fbe554d07ddad3":"lgJ39"}],"gkKU3":[function(require,module,exports) {
 exports.interopDefault = function(a) {
     return a && a.__esModule ? a : {
         default: a
@@ -824,9 +842,6 @@ exports.export = function(dest, destName, get) {
     });
 };
 
-},{}],"lMj2h":[function(require,module,exports) {
-module.exports = require("52fbe554d07ddad3").getBundleURL("lPpKD") + "question.fb1d66bc.png" + "?" + Date.now();
-
-},{"52fbe554d07ddad3":"lgJ39"}]},["hklly","bNKaB"], "bNKaB", "parcelRequireee27")
+},{}]},["hklly","bNKaB"], "bNKaB", "parcelRequireee27")
 
 //# sourceMappingURL=index.0641b553.js.map
