@@ -1,13 +1,4 @@
-20734
-111C:\Users\adamg\OneDrive\Coding\rock-paper-scissors\node_modules\readable-stream\lib\internal\streams\destroy.js133413582715600736 0
-77C:\Users\adamg\OneDrive\Coding\rock-paper-scissors\node_modules\parent-module133404024848269940 1
-72C:\Users\adamg\OneDrive\Coding\rock-paper-scissors\node_modules\argparse133404024366801451 1
-110C:\Users\adamg\OneDrive\Coding\rock-paper-scissors\node_modules\csso\node_modules\css-tree\cjs\utils\names.cjs133403999656046683 0
-71C:\Users\adamg\OneDrive\Coding\rock-paper-scissors\node_modules\find-up133404024738904981 1
-78C:\Users\adamg\OneDrive\Coding\rock-paper-scissors\node_modules\semver\LICENSE133403999572075076 0
-133C:\Users\adamg\OneDrive\Coding\rock-paper-scissors\node_modules\@typescript-eslint\scope-manager\dist\lib\es2017.typedarrays.d.ts.map133404020931987777 0
-58C:\Users\adamg\OneDrive\Coding\rock-paper-scissors\.github133413441442037026 1
-105C:\Users\adamg\OneDrive\Coding\rock-paper-scissors\node_modules\es-abstract\2022\IsNoTearConfiguration.js133404020948335681 0
+20872
 143C:\Users\adamg\OneDrive\Coding\rock-paper-scissors\node_modules\eslint-plugin-html\node_modules\entities\lib\generated\decode-data-xml.d.ts.map133404020888356329 0
 124C:\Users\adamg\OneDrive\Coding\rock-paper-scissors\node_modules\eslint-plugin-html\node_modules\entities\lib\encode.d.ts.map133404020894694157 0
 75C:\Users\adamg\OneDrive\Coding\rock-paper-scissors\node_modules\any-promise133404024364907721 1
@@ -116,7 +107,7 @@
 92C:\Users\adamg\OneDrive\Coding\rock-paper-scissors\node_modules\spdx-exceptions\package.json133413582680452171 0
 75C:\Users\adamg\OneDrive\Coding\rock-paper-scissors\node_modules\fs.realpath133404024741484200 1
 110C:\Users\adamg\OneDrive\Coding\rock-paper-scissors\node_modules\ext\node_modules\type\natural-number\coerce.js133413582712904006 0
-63C:\Users\adamg\OneDrive\Coding\rock-paper-scissors\node_modules133413582761688449 1
+63C:\Users\adamg\OneDrive\Coding\rock-paper-scissors\node_modules133413588932487904 1
 72C:\Users\adamg\OneDrive\Coding\rock-paper-scissors\node_modules\escalade133404024633002672 1
 111C:\Users\adamg\OneDrive\Coding\rock-paper-scissors\node_modules\eslint-plugin-import\lib\rules\imports-first.js133404020881503863 0
 82C:\Users\adamg\OneDrive\Coding\rock-paper-scissors\node_modules\@typescript-eslint133404024355646067 1
@@ -205,7 +196,7 @@
 120C:\Users\adamg\OneDrive\Coding\rock-paper-scissors\node_modules\@babel\types\lib\retrievers\getBindingIdentifiers.js.map133404020923813885 0
 101C:\Users\adamg\OneDrive\Coding\rock-paper-scissors\node_modules\tsutils\node_modules\tslib\tslib.html133404020846508121 0
 89C:\Users\adamg\OneDrive\Coding\rock-paper-scissors\node_modules\posthtml-render\readme.md133403999591332108 0
-65C:\Users\adamg\OneDrive\Coding\rock-paper-scissors\src\index.html133413492761810126 0
+65C:\Users\adamg\OneDrive\Coding\rock-paper-scissors\src\index.html133413594309578604 0
 75C:\Users\adamg\OneDrive\Coding\rock-paper-scissors\node_modules\@ampproject133404024041492785 1
 105C:\Users\adamg\OneDrive\Coding\rock-paper-scissors\node_modules\supports-preserve-symlinks-flag\.eslintrc133404012977634778 0
 119C:\Users\adamg\OneDrive\Coding\rock-paper-scissors\node_modules\@babel\plugin-transform-react-display-name\package.json133404020857839355 0
@@ -231,6 +222,7 @@
 102C:\Users\adamg\OneDrive\Coding\rock-paper-scissors\node_modules\es-abstract\2020\TestIntegrityLevel.js133404020956371768 0
 88C:\Users\adamg\OneDrive\Coding\rock-paper-scissors\node_modules\is-number-object\.github133404024774765143 1
 100C:\Users\adamg\OneDrive\Coding\rock-paper-scissors\node_modules\yaml\dist\stringify\foldFlowLines.js133404012993115886 0
+152C:\Users\adamg\OneDrive\Coding\rock-paper-scissors\node_modules\.cache\gh-pages\https!github.com!adamggrover!rock-paper-scissors-game.git\.git\logs\HEAD133413589047807785 0
 95C:\Users\adamg\OneDrive\Coding\rock-paper-scissors\node_modules\@babel\types\lib\clone\clone.js133404020893160569 0
 72C:\Users\adamg\OneDrive\Coding\rock-paper-scissors\node_modules\entities133404024519376177 1
 86C:\Users\adamg\OneDrive\Coding\rock-paper-scissors\node_modules\resolve\test\dotdot.js133404012989255962 0
@@ -243,6 +235,20 @@
 113C:\Users\adamg\OneDrive\Coding\rock-paper-scissors\node_modules\lmdb\dependencies\lmdb\libraries\liblmdb\mtest5.c133403999652706943 0
 139C:\Users\adamg\OneDrive\Coding\rock-paper-scissors\node_modules\@parcel\optimizer-htmlnano\node_modules\mdn-data\css\properties.schema.json133403999620571288 0
 67C:\Users\adamg\OneDrive\Coding\rock-paper-scissors\src\assets\icons133411846477180158 1
+93C:\Users\adamg\OneDrive\Coding\rock-paper-scissors\node_modules\json-parse-even-better-errors133404024789459897 1
+99C:\Users\adamg\OneDrive\Coding\rock-paper-scissors\node_modules\es-abstract\2022\ThrowCompletion.js133404020957023743 0
+96C:\Users\adamg\OneDrive\Coding\rock-paper-scissors\node_modules\css-tree\cjs\parser\sequence.cjs133403999663003837 0
+108C:\Users\adamg\OneDrive\Coding\rock-paper-scissors\node_modules\tailwindcss\lib\lib\collapseAdjacentRules.js133404012990746363 0
+96C:\Users\adamg\OneDrive\Coding\rock-paper-scissors\node_modules\es-abstract\2015\ToUint8Clamp.js133404020960135401 0
+82C:\Users\adamg\OneDrive\Coding\rock-paper-scissors\node_modules\svgo\lib\parser.js133403999631954052 0
+102C:\Users\adamg\OneDrive\Coding\rock-paper-scissors\node_modules\es-abstract\2021\IsConcatSpreadable.js133404020947265373 0
+114C:\Users\adamg\OneDrive\Coding\rock-paper-scissors\node_modules\@typescript-eslint\typescript-estree\dist\index.js133404020881760661 0
+120C:\Users\adamg\OneDrive\Coding\rock-paper-scissors\node_modules\@typescript-eslint\scope-manager\dist\scope\index.js.map133404020938769378 0
+81C:\Users\adamg\OneDrive\Coding\rock-paper-scissors\node_modules\globby\index.d.ts133404020863106222 0
+75C:\Users\adamg\OneDrive\Coding\rock-paper-scissors\node_modules\detect-file133413582697732409 1
+70C:\Users\adamg\OneDrive\Coding\rock-paper-scissors\node_modules\.cache133413588932487904 1
+83C:\Users\adamg\OneDrive\Coding\rock-paper-scissors\node_modules\cosmiconfig\LICENSE133403999571984240 0
+111C:\Users\adamg\OneDrive\Coding\rock-paper-scissors\node_modules\csso\node_modules\css-tree\cjs\lexer\search.cjs133403999660546984 0
 92C:\Users\adamg\OneDrive\Coding\rock-paper-scissors\node_modules\tsutils\typeguard\index.d.ts133404020904607669 0
 83C:\Users\adamg\OneDrive\Coding\rock-paper-scissors\node_modules\is-relative\LICENSE133413582690217916 0
 80C:\Users\adamg\OneDrive\Coding\rock-paper-scissors\src\assets\icons\question.png133411846477163442 0
@@ -449,7 +455,6 @@
 109C:\Users\adamg\OneDrive\Coding\rock-paper-scissors\node_modules\sucrase\dist\types\util\getJSXPragmaInfo.d.ts133404013001393558 0
 98C:\Users\adamg\OneDrive\Coding\rock-paper-scissors\node_modules\tsutils\typeguard\2.9\index.js.map133404020891032330 0
 99C:\Users\adamg\OneDrive\Coding\rock-paper-scissors\node_modules\normalize-package-data\node_modules133413582758037430 1
-79C:\Users\adamg\OneDrive\Coding\rock-paper-scissors\.github\workflows\static.yml133413441442037026 0
 81C:\Users\adamg\OneDrive\Coding\rock-paper-scissors\node_modules\parcel\lib\cli.js133403999587889672 0
 81C:\Users\adamg\OneDrive\Coding\rock-paper-scissors\node_modules\require-directory133413582711748790 1
 90C:\Users\adamg\OneDrive\Coding\rock-paper-scissors\node_modules\es-abstract\2021\Invoke.js133404020946385134 0
@@ -487,6 +492,12 @@
 72C:\Users\adamg\OneDrive\Coding\rock-paper-scissors\node_modules\read-pkg133413582697546650 1
 88C:\Users\adamg\OneDrive\Coding\rock-paper-scissors\node_modules\entities\lib\encode.d.ts133403999627857429 0
 112C:\Users\adamg\OneDrive\Coding\rock-paper-scissors\node_modules\eslint-plugin-react\lib\rules\jsx-pascal-case.js133404020903060092 0
+111C:\Users\adamg\OneDrive\Coding\rock-paper-scissors\node_modules\readable-stream\lib\internal\streams\destroy.js133413582715600736 0
+77C:\Users\adamg\OneDrive\Coding\rock-paper-scissors\node_modules\parent-module133404024848269940 1
+72C:\Users\adamg\OneDrive\Coding\rock-paper-scissors\node_modules\argparse133404024366801451 1
+110C:\Users\adamg\OneDrive\Coding\rock-paper-scissors\node_modules\csso\node_modules\css-tree\cjs\utils\names.cjs133403999656046683 0
+71C:\Users\adamg\OneDrive\Coding\rock-paper-scissors\node_modules\find-up133404024738904981 1
+78C:\Users\adamg\OneDrive\Coding\rock-paper-scissors\node_modules\semver\LICENSE133403999572075076 0
 90C:\Users\adamg\OneDrive\Coding\rock-paper-scissors\node_modules\@parcel\graph\src\index.js133403999613235128 0
 102C:\Users\adamg\OneDrive\Coding\rock-paper-scissors\node_modules\typescript\lib\lib.es2021.weakref.d.ts133404020946721567 0
 103C:\Users\adamg\OneDrive\Coding\rock-paper-scissors\node_modules\resolve\test\resolver\dot_main\index.js133404012991832314 0
@@ -793,6 +804,7 @@
 77C:\Users\adamg\OneDrive\Coding\rock-paper-scissors\node_modules\object-assign133404024834052116 1
 97C:\Users\adamg\OneDrive\Coding\rock-paper-scissors\node_modules\source-map\dist\source-map.min.js133403999627168509 0
 87C:\Users\adamg\OneDrive\Coding\rock-paper-scissors\node_modules\typedarray\package.json133413582674125282 0
+159C:\Users\adamg\OneDrive\Coding\rock-paper-scissors\node_modules\.cache\gh-pages\https!github.com!adamggrover!rock-paper-scissors-game.git\question.fb1d66bc.png133413589041922586 0
 79C:\Users\adamg\OneDrive\Coding\rock-paper-scissors\node_modules\brace-expansion133404024394118778 1
 88C:\Users\adamg\OneDrive\Coding\rock-paper-scissors\node_modules\pinkie-promise\readme.md133413566529678883 0
 91C:\Users\adamg\OneDrive\Coding\rock-paper-scissors\node_modules\@eslint\eslintrc\lib\shared133404024106000114 1
@@ -886,6 +898,7 @@
 99C:\Users\adamg\OneDrive\Coding\rock-paper-scissors\node_modules\ext\node_modules\type\reg-exp\is.js133413582727199659 0
 88C:\Users\adamg\OneDrive\Coding\rock-paper-scissors\node_modules\htmlnano\lib\htmlnano.js133403999606570089 0
 90C:\Users\adamg\OneDrive\Coding\rock-paper-scissors\node_modules\picomatch\lib\picomatch.js133403999590749768 0
+155C:\Users\adamg\OneDrive\Coding\rock-paper-scissors\node_modules\.cache\gh-pages\https!github.com!adamggrover!rock-paper-scissors-game.git\.git\objects\info133413588944010833 1
 69C:\Users\adamg\OneDrive\Coding\rock-paper-scissors\node_modules\cliui133413582706449178 1
 83C:\Users\adamg\OneDrive\Coding\rock-paper-scissors\node_modules\htmlnano\index.d.ts133403999654707024 0
 98C:\Users\adamg\OneDrive\Coding\rock-paper-scissors\node_modules\is-typed-array\.github\FUNDING.yml133404020870408328 0
@@ -1040,6 +1053,7 @@
 94C:\Users\adamg\OneDrive\Coding\rock-paper-scissors\node_modules\yaml\browser\dist\node_modules133404024990122380 1
 92C:\Users\adamg\OneDrive\Coding\rock-paper-scissors\node_modules\type-check\lib\parse-type.js133404020854047471 0
 108C:\Users\adamg\OneDrive\Coding\rock-paper-scissors\node_modules\tsconfig-paths\node_modules\json5\lib\cli.js133404020844782888 0
+160C:\Users\adamg\OneDrive\Coding\rock-paper-scissors\node_modules\.cache\gh-pages\https!github.com!adamggrover!rock-paper-scissors-game.git\index.5eef317b.css.map133413589041898646 0
 106C:\Users\adamg\OneDrive\Coding\rock-paper-scissors\node_modules\string.prototype.trimstart\test\shimmed.js133404020872895382 0
 133C:\Users\adamg\OneDrive\Coding\rock-paper-scissors\node_modules\@typescript-eslint\eslint-plugin\docs\rules\member-delimiter-style.md133404020942877158 0
 80C:\Users\adamg\OneDrive\Coding\rock-paper-scissors\node_modules\pump\.travis.yml133413582688884624 0
@@ -1183,17 +1197,6 @@
 106C:\Users\adamg\OneDrive\Coding\rock-paper-scissors\node_modules\caniuse-lite\data\features\css-counters.js133403999672258504 0
 118C:\Users\adamg\OneDrive\Coding\rock-paper-scissors\node_modules\@typescript-eslint\typescript-estree\dist\index.js.map133404020906755228 0
 85C:\Users\adamg\OneDrive\Coding\rock-paper-scissors\node_modules\type\finite\ensure.js133413582723622070 0
-93C:\Users\adamg\OneDrive\Coding\rock-paper-scissors\node_modules\json-parse-even-better-errors133404024789459897 1
-99C:\Users\adamg\OneDrive\Coding\rock-paper-scissors\node_modules\es-abstract\2022\ThrowCompletion.js133404020957023743 0
-96C:\Users\adamg\OneDrive\Coding\rock-paper-scissors\node_modules\css-tree\cjs\parser\sequence.cjs133403999663003837 0
-108C:\Users\adamg\OneDrive\Coding\rock-paper-scissors\node_modules\tailwindcss\lib\lib\collapseAdjacentRules.js133404012990746363 0
-96C:\Users\adamg\OneDrive\Coding\rock-paper-scissors\node_modules\es-abstract\2015\ToUint8Clamp.js133404020960135401 0
-82C:\Users\adamg\OneDrive\Coding\rock-paper-scissors\node_modules\svgo\lib\parser.js133403999631954052 0
-102C:\Users\adamg\OneDrive\Coding\rock-paper-scissors\node_modules\es-abstract\2021\IsConcatSpreadable.js133404020947265373 0
-114C:\Users\adamg\OneDrive\Coding\rock-paper-scissors\node_modules\@typescript-eslint\typescript-estree\dist\index.js133404020881760661 0
-120C:\Users\adamg\OneDrive\Coding\rock-paper-scissors\node_modules\@typescript-eslint\scope-manager\dist\scope\index.js.map133404020938769378 0
-81C:\Users\adamg\OneDrive\Coding\rock-paper-scissors\node_modules\globby\index.d.ts133404020863106222 0
-75C:\Users\adamg\OneDrive\Coding\rock-paper-scissors\node_modules\detect-file133413582697732409 1
 117C:\Users\adamg\OneDrive\Coding\rock-paper-scissors\node_modules\eslint-plugin-jsx-a11y\lib\util\hasAccessibleChild.js133404020904676099 0
 107C:\Users\adamg\OneDrive\Coding\rock-paper-scissors\node_modules\jsx-ast-utils\__tests__\src\hasProp-test.js133404020896180148 0
 95C:\Users\adamg\OneDrive\Coding\rock-paper-scissors\node_modules\typed-array-byte-offset\.github133404024966843968 1
@@ -1357,6 +1360,7 @@
 124C:\Users\adamg\OneDrive\Coding\rock-paper-scissors\node_modules\@babel\runtime\helpers\esm\createForOfIteratorHelperLoose.js133404020913345487 0
 90C:\Users\adamg\OneDrive\Coding\rock-paper-scissors\node_modules\is-generator-function\test133404024771555237 1
 82C:\Users\adamg\OneDrive\Coding\rock-paper-scissors\node_modules\error-ex\README.md133403999583600706 0
+153C:\Users\adamg\OneDrive\Coding\rock-paper-scissors\node_modules\.cache\gh-pages\https!github.com!adamggrover!rock-paper-scissors-game.git\.git\refs\heads133413589047807785 1
 96C:\Users\adamg\OneDrive\Coding\rock-paper-scissors\node_modules\es5-ext\math\fround\implement.js133413582731271991 0
 123C:\Users\adamg\OneDrive\Coding\rock-paper-scissors\node_modules\snapdragon\node_modules\source-map\dist\source-map.debug.js133413582716310232 0
 95C:\Users\adamg\OneDrive\Coding\rock-paper-scissors\node_modules\eslint-config-airbnb-typescript133404024662573067 1
@@ -2295,6 +2299,7 @@
 87C:\Users\adamg\OneDrive\Coding\rock-paper-scissors\node_modules\es-abstract\2023\Day.js133404020938633257 0
 142C:\Users\adamg\OneDrive\Coding\rock-paper-scissors\node_modules\@parcel\optimizer-htmlnano\node_modules\css-tree\lib\syntax\node\MediaQuery.js133403999656582229 0
 91C:\Users\adamg\OneDrive\Coding\rock-paper-scissors\node_modules\tsutils\util\convert-ast.js133404020850859389 0
+159C:\Users\adamg\OneDrive\Coding\rock-paper-scissors\node_modules\.cache\gh-pages\https!github.com!adamggrover!rock-paper-scissors-game.git\index.a027cb2c.js.map133413589041922586 0
 99C:\Users\adamg\OneDrive\Coding\rock-paper-scissors\node_modules\@parcel\watcher-win32-x64\README.md133403999579831479 0
 86C:\Users\adamg\OneDrive\Coding\rock-paper-scissors\node_modules\normalize-package-data133413582704835577 1
 135C:\Users\adamg\OneDrive\Coding\rock-paper-scissors\node_modules\@parcel\workers\test\integration\workerfarm\resolve-shared-reference.js133403999630009752 0
@@ -2336,6 +2341,7 @@
 79C:\Users\adamg\OneDrive\Coding\rock-paper-scissors\node_modules\replace-homedir133413582697793944 1
 75C:\Users\adamg\OneDrive\Coding\rock-paper-scissors\node_modules\flatted\cjs133404024740082718 1
 88C:\Users\adamg\OneDrive\Coding\rock-paper-scissors\node_modules\replace-ext\package.json133413582678089809 0
+159C:\Users\adamg\OneDrive\Coding\rock-paper-scissors\node_modules\.cache\gh-pages\https!github.com!adamggrover!rock-paper-scissors-game.git\scissors.68e75d14.png133413589041940674 0
 82C:\Users\adamg\OneDrive\Coding\rock-paper-scissors\node_modules\is-buffer\index.js133413582680522494 0
 98C:\Users\adamg\OneDrive\Coding\rock-paper-scissors\node_modules\type\test\natural-number\ensure.js133413582726708829 0
 92C:\Users\adamg\OneDrive\Coding\rock-paper-scissors\node_modules\resolve\test\resolver\mug.js133404012993376901 0
@@ -2363,6 +2369,7 @@
 116C:\Users\adamg\OneDrive\Coding\rock-paper-scissors\node_modules\es-iterator-helpers\IteratorHelperPrototype\index.js133404020902053706 0
 115C:\Users\adamg\OneDrive\Coding\rock-paper-scissors\node_modules\aria-query\lib\etc\roles\literal\applicationRole.js133404020856685943 0
 93C:\Users\adamg\OneDrive\Coding\rock-paper-scissors\node_modules\sucrase\dist\types\index.d.ts133404013001764344 0
+163C:\Users\adamg\OneDrive\Coding\rock-paper-scissors\node_modules\.cache\gh-pages\https!github.com!adamggrover!rock-paper-scissors-game.git\index.61d3354a.css.5288.y133413589041673381 0
 81C:\Users\adamg\OneDrive\Coding\rock-paper-scissors\node_modules\es5-ext\math\sign133413582752594043 1
 71C:\Users\adamg\OneDrive\Coding\rock-paper-scissors\node_modules\p-limit133404024846976145 1
 85C:\Users\adamg\OneDrive\Coding\rock-paper-scissors\node_modules\ordered-binary\assets133404024846437077 1
@@ -2574,6 +2581,7 @@
 121C:\Users\adamg\OneDrive\Coding\rock-paper-scissors\node_modules\eslint-plugin-jsx-a11y\lib\util\implicitRoles\menuitem.js133404020921288764 0
 76C:\Users\adamg\OneDrive\Coding\rock-paper-scissors\node_modules\split-string133413582697310368 1
 109C:\Users\adamg\OneDrive\Coding\rock-paper-scissors\node_modules\css-tree\lib\definition-syntax\SyntaxError.js133403999676644857 0
+159C:\Users\adamg\OneDrive\Coding\rock-paper-scissors\node_modules\.cache\gh-pages\https!github.com!adamggrover!rock-paper-scissors-game.git\index.78276221.js.map133413589041922586 0
 75C:\Users\adamg\OneDrive\Coding\rock-paper-scissors\node_modules\safe-buffer133404024886555110 1
 93C:\Users\adamg\OneDrive\Coding\rock-paper-scissors\node_modules\yaml\browser\dist\schema\json133404024991695849 1
 114C:\Users\adamg\OneDrive\Coding\rock-paper-scissors\node_modules\eslint-plugin-jsx-a11y\docs\rules\label-has-for.md133404020930738935 0
@@ -3094,6 +3102,7 @@
 95C:\Users\adamg\OneDrive\Coding\rock-paper-scissors\node_modules\typed-array-length\CHANGELOG.md133404020863649108 0
 95C:\Users\adamg\OneDrive\Coding\rock-paper-scissors\node_modules\tailwindcss\lib\postcss-plugins133404024928259953 1
 101C:\Users\adamg\OneDrive\Coding\rock-paper-scissors\node_modules\es-abstract\2022\DetachArrayBuffer.js133404020940890425 0
+164C:\Users\adamg\OneDrive\Coding\rock-paper-scissors\node_modules\.cache\gh-pages\https!github.com!adamggrover!rock-paper-scissors-game.git\.git\hooks\pre-push.sample133413588943729860 0
 85C:\Users\adamg\OneDrive\Coding\rock-paper-scissors\node_modules\fastq\test\example.ts133404012986847613 0
 76C:\Users\adamg\OneDrive\Coding\rock-paper-scissors\node_modules\yaml\LICENSE133404012977651884 0
 81C:\Users\adamg\OneDrive\Coding\rock-paper-scissors\node_modules\yaml\package.json133404013002123221 0
@@ -3221,6 +3230,7 @@
 96C:\Users\adamg\OneDrive\Coding\rock-paper-scissors\node_modules\term-size\vendor\macos\.DS_Store133403999578032697 0
 100C:\Users\adamg\OneDrive\Coding\rock-paper-scissors\node_modules\string.prototype.trimend\polyfill.js133404020869868415 0
 77C:\Users\adamg\OneDrive\Coding\rock-paper-scissors\node_modules\.bin\prettier133404020962406561 0
+167C:\Users\adamg\OneDrive\Coding\rock-paper-scissors\node_modules\.cache\gh-pages\https!github.com!adamggrover!rock-paper-scissors-game.git\.git\logs\refs\remotes\origin133413589082451353 1
 102C:\Users\adamg\OneDrive\Coding\rock-paper-scissors\node_modules\yaml\dist\stringify\stringifyPair.d.ts133404013005332382 0
 79C:\Users\adamg\OneDrive\Coding\rock-paper-scissors\node_modules\extglob\LICENSE133413582698385568 0
 101C:\Users\adamg\OneDrive\Coding\rock-paper-scissors\node_modules\css-tree\cjs\syntax\node\Selector.cjs133403999662317370 0
@@ -3826,6 +3836,7 @@
 93C:\Users\adamg\OneDrive\Coding\rock-paper-scissors\node_modules\tsutils\typeguard\3.2\node.js133404020880045198 0
 131C:\Users\adamg\OneDrive\Coding\rock-paper-scissors\node_modules\css-select\node_modules\entities\lib\esm\generated\encode-html.d.ts133403999649858826 0
 116C:\Users\adamg\OneDrive\Coding\rock-paper-scissors\node_modules\eslint-plugin-import\docs\rules\no-nodejs-modules.md133404020918053854 0
+156C:\Users\adamg\OneDrive\Coding\rock-paper-scissors\node_modules\.cache\gh-pages\https!github.com!adamggrover!rock-paper-scissors-game.git\index.a8b2efc1.css133413589041922586 0
 92C:\Users\adamg\OneDrive\Coding\rock-paper-scissors\node_modules\which-collection\.travis.yml133404020865329727 0
 126C:\Users\adamg\OneDrive\Coding\rock-paper-scissors\node_modules\eslint-plugin-react\node_modules\resolve\test\shadowed_core.js133404020909325264 0
 83C:\Users\adamg\OneDrive\Coding\rock-paper-scissors\node_modules\tailwindcss\src\cli133404024934466600 1
@@ -3875,7 +3886,9 @@
 100C:\Users\adamg\OneDrive\Coding\rock-paper-scissors\node_modules\es5-ext\math\trunc\is-implemented.js133413582742931771 0
 99C:\Users\adamg\OneDrive\Coding\rock-paper-scissors\node_modules\readable-stream\readable-browser.js133413582718144949 0
 78C:\Users\adamg\OneDrive\Coding\rock-paper-scissors\node_modules\cliui\index.js133413582690125426 0
+155C:\Users\adamg\OneDrive\Coding\rock-paper-scissors\node_modules\.cache\gh-pages\https!github.com!adamggrover!rock-paper-scissors-game.git\index.85bc7188.js133413589041922586 0
 95C:\Users\adamg\OneDrive\Coding\rock-paper-scissors\node_modules\es-abstract\2020\ToBigUint64.js133404020957541115 0
+154C:\Users\adamg\OneDrive\Coding\rock-paper-scissors\node_modules\.cache\gh-pages\https!github.com!adamggrover!rock-paper-scissors-game.git\.git\packed-refs133413589024996612 0
 99C:\Users\adamg\OneDrive\Coding\rock-paper-scissors\node_modules\which-boxed-primitive\.editorconfig133404020842626363 0
 128C:\Users\adamg\OneDrive\Coding\rock-paper-scissors\node_modules\eslint-plugin-html\node_modules\entities\lib\esm\decode.d.ts.map133404020890365917 0
 92C:\Users\adamg\OneDrive\Coding\rock-paper-scissors\node_modules\tailwindcss\defaultConfig.js133404012994126137 0
@@ -4982,6 +4995,7 @@
 90C:\Users\adamg\OneDrive\Coding\rock-paper-scissors\node_modules\picomatch\lib\constants.js133403999576452192 0
 79C:\Users\adamg\OneDrive\Coding\rock-paper-scissors\node_modules\p-try\readme.md133413566529637284 0
 114C:\Users\adamg\OneDrive\Coding\rock-paper-scissors\node_modules\object-copy\node_modules\define-property\README.md133413582680746465 0
+156C:\Users\adamg\OneDrive\Coding\rock-paper-scissors\node_modules\.cache\gh-pages\https!github.com!adamggrover!rock-paper-scissors-game.git\index.7891b456.css133413589041922586 0
 114C:\Users\adamg\OneDrive\Coding\rock-paper-scissors\node_modules\@swc\helpers\src\_define_enumerable_properties.mjs133403999684500877 0
 101C:\Users\adamg\OneDrive\Coding\rock-paper-scissors\node_modules\typed-array-byte-length\test\index.js133404020857643217 0
 114C:\Users\adamg\OneDrive\Coding\rock-paper-scissors\node_modules\jsx-ast-utils\lib\values\expressions\Identifier.js133404020899304757 0
@@ -5924,6 +5938,7 @@
 85C:\Users\adamg\OneDrive\Coding\rock-paper-scissors\node_modules\es5-ext\math\index.js133413582736216867 0
 103C:\Users\adamg\OneDrive\Coding\rock-paper-scissors\node_modules\nanomatch\node_modules\kind-of\index.js133413582681342395 0
 90C:\Users\adamg\OneDrive\Coding\rock-paper-scissors\node_modules\camelcase-css\package.json133404012977634778 0
+164C:\Users\adamg\OneDrive\Coding\rock-paper-scissors\node_modules\.cache\gh-pages\https!github.com!adamggrover!rock-paper-scissors-game.git\index.0641b553.js.21872.21133413589041940674 0
 92C:\Users\adamg\OneDrive\Coding\rock-paper-scissors\node_modules\tailwindcss\src\value-parser133404024941359568 1
 83C:\Users\adamg\OneDrive\Coding\rock-paper-scissors\node_modules\object.pick\LICENSE133413582690323256 0
 133C:\Users\adamg\OneDrive\Coding\rock-paper-scissors\node_modules\@typescript-eslint\utils\dist\eslint-utils\getParserServices.d.ts.map133404020905031920 0
@@ -7162,6 +7177,7 @@
 85C:\Users\adamg\OneDrive\Coding\rock-paper-scissors\node_modules\stream-shift\index.js133413582688992952 0
 87C:\Users\adamg\OneDrive\Coding\rock-paper-scissors\node_modules\resolve\test\module_dir133404024877316586 1
 87C:\Users\adamg\OneDrive\Coding\rock-paper-scissors\node_modules\stream-exhaust\index.js133413582690449410 0
+155C:\Users\adamg\OneDrive\Coding\rock-paper-scissors\node_modules\.cache\gh-pages\https!github.com!adamggrover!rock-paper-scissors-game.git\index.8d6744b7.js133413589041922586 0
 77C:\Users\adamg\OneDrive\Coding\rock-paper-scissors\node_modules\@parcel\graph133404024142083339 1
 92C:\Users\adamg\OneDrive\Coding\rock-paper-scissors\node_modules\jsx-ast-utils\elementType.js133404020880971596 0
 91C:\Users\adamg\OneDrive\Coding\rock-paper-scissors\node_modules\stream-exhaust\package.json133413582674192567 0
@@ -7395,6 +7411,7 @@
 117C:\Users\adamg\OneDrive\Coding\rock-paper-scissors\node_modules\posthtml\node_modules\posthtml-parser\dist\index.d.ts133403999595834900 0
 85C:\Users\adamg\OneDrive\Coding\rock-paper-scissors\node_modules\prelude-ls\lib\Num.js133404020858640558 0
 87C:\Users\adamg\OneDrive\Coding\rock-paper-scissors\node_modules\snapdragon\node_modules133413582666371487 1
+160C:\Users\adamg\OneDrive\Coding\rock-paper-scissors\node_modules\.cache\gh-pages\https!github.com!adamggrover!rock-paper-scissors-game.git\index.7891b456.css.map133413589041922586 0
 137C:\Users\adamg\OneDrive\Coding\rock-paper-scissors\node_modules\@parcel\optimizer-htmlnano\node_modules\css-tree\lib\syntax\config\mix.js133403999657436815 0
 87C:\Users\adamg\OneDrive\Coding\rock-paper-scissors\node_modules\snapdragon\package.json133413582673839944 0
 90C:\Users\adamg\OneDrive\Coding\rock-paper-scissors\node_modules\bach\lib\settleParallel.js133413582714973451 0
@@ -7750,6 +7767,7 @@
 80C:\Users\adamg\OneDrive\Coding\rock-paper-scissors\node_modules\es-abstract\2019133404024559908804 1
 85C:\Users\adamg\OneDrive\Coding\rock-paper-scissors\node_modules\resolve-url\readme.md133413582713408141 0
 80C:\Users\adamg\OneDrive\Coding\rock-paper-scissors\node_modules\resolve-url\test133413582714526710 1
+159C:\Users\adamg\OneDrive\Coding\rock-paper-scissors\node_modules\.cache\gh-pages\https!github.com!adamggrover!rock-paper-scissors-game.git\index.3dc0915e.js.map133413589041898646 0
 95C:\Users\adamg\OneDrive\Coding\rock-paper-scissors\node_modules\resolve-url\test\resolve-url.js133413582714663110 0
 88C:\Users\adamg\OneDrive\Coding\rock-paper-scissors\node_modules\resolve-options\index.js133413582708899326 0
 92C:\Users\adamg\OneDrive\Coding\rock-paper-scissors\node_modules\resolve-options\package.json133413582680008482 0
@@ -8452,6 +8470,7 @@
 138C:\Users\adamg\OneDrive\Coding\rock-paper-scissors\node_modules\@typescript-eslint\scope-manager\dist\definition\TSEnumMemberDefinition.js133404020921003306 0
 81C:\Users\adamg\OneDrive\Coding\rock-paper-scissors\node_modules\path-key\index.js133404020846446361 0
 80C:\Users\adamg\OneDrive\Coding\rock-paper-scissors\node_modules\path-key\license133404020842985199 0
+172C:\Users\adamg\OneDrive\Coding\rock-paper-scissors\node_modules\.cache\gh-pages\https!github.com!adamggrover!rock-paper-scissors-game.git\.git\hooks\pre-merge-commit.sample133413588943729860 0
 113C:\Users\adamg\OneDrive\Coding\rock-paper-scissors\node_modules\eslint-plugin-react\node_modules\resolve\async.js133404020873587534 0
 89C:\Users\adamg\OneDrive\Coding\rock-paper-scissors\node_modules\path-is-absolute\index.js133404012978601180 0
 93C:\Users\adamg\OneDrive\Coding\rock-paper-scissors\node_modules\is-negative-zero\package.json133404020865407058 0
@@ -8591,6 +8610,7 @@
 86C:\Users\adamg\OneDrive\Coding\rock-paper-scissors\node_modules\browserslist\README.md133403999601239417 0
 91C:\Users\adamg\OneDrive\Coding\rock-paper-scissors\node_modules\object.groupby\CHANGELOG.md133404020878433125 0
 114C:\Users\adamg\OneDrive\Coding\rock-paper-scissors\node_modules\eslint-plugin-import\node_modules\semver\README.md133404020863398736 0
+155C:\Users\adamg\OneDrive\Coding\rock-paper-scissors\node_modules\.cache\gh-pages\https!github.com!adamggrover!rock-paper-scissors-game.git\index.df05bbcc.js133413589041922586 0
 102C:\Users\adamg\OneDrive\Coding\rock-paper-scissors\node_modules\@parcel\transformer-html\src\inline.js133403999597497418 0
 96C:\Users\adamg\OneDrive\Coding\rock-paper-scissors\node_modules\lazystream\test\readable_test.js133413582712774888 0
 87C:\Users\adamg\OneDrive\Coding\rock-paper-scissors\node_modules\es-abstract\2017\max.js133404020950701322 0
@@ -9026,6 +9046,7 @@
 81C:\Users\adamg\OneDrive\Coding\rock-paper-scissors\node_modules\interpret\LICENSE133413582680680779 0
 85C:\Users\adamg\OneDrive\Coding\rock-paper-scissors\node_modules\mute-stdout\README.md133413582698680251 0
 81C:\Users\adamg\OneDrive\Coding\rock-paper-scissors\node_modules\next-tick\LICENSE133413582698499972 0
+162C:\Users\adamg\OneDrive\Coding\rock-paper-scissors\node_modules\.cache\gh-pages\https!github.com!adamggrover!rock-paper-scissors-game.git\.git\hooks\update.sample133413588943800493 0
 79C:\Users\adamg\OneDrive\Coding\rock-paper-scissors\node_modules\ext\docs\string133413582724886666 1
 86C:\Users\adamg\OneDrive\Coding\rock-paper-scissors\node_modules\next-tick\package.json133413582712774888 0
 86C:\Users\adamg\OneDrive\Coding\rock-paper-scissors\node_modules\is-path-inside\license133404020843016617 0
@@ -9932,6 +9953,7 @@
 92C:\Users\adamg\OneDrive\Coding\rock-paper-scissors\node_modules\es-abstract\2020\ToUint32.js133404020959936872 0
 88C:\Users\adamg\OneDrive\Coding\rock-paper-scissors\node_modules\es-abstract\2020\Type.js133404020960374936 0
 107C:\Users\adamg\OneDrive\Coding\rock-paper-scissors\node_modules\es-abstract\2018\TypedArraySpeciesCreate.js133404020960699777 0
+168C:\Users\adamg\OneDrive\Coding\rock-paper-scissors\node_modules\.cache\gh-pages\https!github.com!adamggrover!rock-paper-scissors-game.git\index.61d3354a.css.map.15772.j133413589041898646 0
 90C:\Users\adamg\OneDrive\Coding\rock-paper-scissors\node_modules\just-debounce\package.json133413582712621720 0
 91C:\Users\adamg\OneDrive\Coding\rock-paper-scissors\node_modules\jsx-ast-utils\.eslintignore133404020846292241 0
 86C:\Users\adamg\OneDrive\Coding\rock-paper-scissors\node_modules\entities\lib\generated133404024520749826 1
@@ -11213,6 +11235,7 @@
 80C:\Users\adamg\OneDrive\Coding\rock-paper-scissors\node_modules\gh-pages\LICENSE133413566527980254 0
 88C:\Users\adamg\OneDrive\Coding\rock-paper-scissors\node_modules\array-initial\.npmignore133413582691513240 0
 91C:\Users\adamg\OneDrive\Coding\rock-paper-scissors\node_modules\es5-ext\string\is-string.js133413582746046171 0
+160C:\Users\adamg\OneDrive\Coding\rock-paper-scissors\node_modules\.cache\gh-pages\https!github.com!adamggrover!rock-paper-scissors-game.git\index.56ed3468.css.map133413589041898646 0
 95C:\Users\adamg\OneDrive\Coding\rock-paper-scissors\node_modules\gh-pages\node_modules\commander133413566533530550 1
 105C:\Users\adamg\OneDrive\Coding\rock-paper-scissors\node_modules\gh-pages\node_modules\globby\package.json133413566527781438 0
 102C:\Users\adamg\OneDrive\Coding\rock-paper-scissors\node_modules\gh-pages\node_modules\globby\readme.md133413566530596221 0
@@ -11639,6 +11662,7 @@
 112C:\Users\adamg\OneDrive\Coding\rock-paper-scissors\node_modules\aria-query\lib\etc\roles\dpub\docSubtitleRole.js133404020904245735 0
 84C:\Users\adamg\OneDrive\Coding\rock-paper-scissors\node_modules\extglob\node_modules133413582666371487 1
 116C:\Users\adamg\OneDrive\Coding\rock-paper-scissors\node_modules\@typescript-eslint\scope-manager\dist\lib\es7.js.map133404020936216698 0
+153C:\Users\adamg\OneDrive\Coding\rock-paper-scissors\node_modules\.cache\gh-pages\https!github.com!adamggrover!rock-paper-scissors-game.git\.git\objects\64133413589047807785 1
 103C:\Users\adamg\OneDrive\Coding\rock-paper-scissors\node_modules\@babel\types\lib\validators\validate.js133404020931077712 0
 100C:\Users\adamg\OneDrive\Coding\rock-paper-scissors\node_modules\extglob\node_modules\define-property133413582698064946 1
 94C:\Users\adamg\OneDrive\Coding\rock-paper-scissors\node_modules\eslint\lib\cli-engine\index.js133404020918657249 0
@@ -12114,6 +12138,7 @@
 115C:\Users\adamg\OneDrive\Coding\rock-paper-scissors\node_modules\caniuse-lite\data\features\link-rel-dns-prefetch.js133403999689200743 0
 110C:\Users\adamg\OneDrive\Coding\rock-paper-scissors\node_modules\aria-query\lib\etc\roles\literal\sliderRole.js133404020920560143 0
 121C:\Users\adamg\OneDrive\Coding\rock-paper-scissors\node_modules\eslint-plugin-react\node_modules\resolve\example\async.js133404020875082973 0
+155C:\Users\adamg\OneDrive\Coding\rock-paper-scissors\node_modules\.cache\gh-pages\https!github.com!adamggrover!rock-paper-scissors-game.git\.git\objects\pack133413589025194309 1
 124C:\Users\adamg\OneDrive\Coding\rock-paper-scissors\node_modules\eslint-plugin-react\node_modules\resolve\.github\FUNDING.yml133404020917051491 0
 113C:\Users\adamg\OneDrive\Coding\rock-paper-scissors\node_modules\eslint-plugin-react\node_modules\doctrine\LICENSE133404020851621206 0
 147C:\Users\adamg\OneDrive\Coding\rock-paper-scissors\node_modules\@typescript-eslint\typescript-estree\dist\create-program\createIsolatedProgram.d.ts133404020917836110 0
@@ -12242,6 +12267,7 @@
 96C:\Users\adamg\OneDrive\Coding\rock-paper-scissors\node_modules\eslint-plugin-jsx-a11y\__tests__133404024704587426 1
 110C:\Users\adamg\OneDrive\Coding\rock-paper-scissors\node_modules\eslint-plugin-jsx-a11y\__tests__\index-test.js133404020908079924 0
 128C:\Users\adamg\OneDrive\Coding\rock-paper-scissors\node_modules\eslint-plugin-jsx-a11y\__tests__\__util__\parserOptionsMapper.js133404020925562156 0
+192C:\Users\adamg\OneDrive\Coding\rock-paper-scissors\node_modules\.cache\gh-pages\https!github.com!adamggrover!rock-paper-scissors-game.git\.git\objects\63\d9c1d75674017dbf9df8b4b170c96569ba3cfe133413589044542206 0
 106C:\Users\adamg\OneDrive\Coding\rock-paper-scissors\node_modules\eslint-plugin-jsx-a11y\__tests__\src\rules133404024702715455 1
 136C:\Users\adamg\OneDrive\Coding\rock-paper-scissors\node_modules\eslint-plugin-jsx-a11y\__tests__\src\util\getAccessibleChildText-test.js133404020896700490 0
 143C:\Users\adamg\OneDrive\Coding\rock-paper-scissors\node_modules\eslint-plugin-jsx-a11y\__tests__\src\rules\mouse-events-have-key-events-test.js133404020921579498 0
@@ -12381,6 +12407,7 @@
 135C:\Users\adamg\OneDrive\Coding\rock-paper-scissors\node_modules\eslint-plugin-jsx-a11y\docs\rules\aria-activedescendant-has-tabindex.md133404020929072774 0
 114C:\Users\adamg\OneDrive\Coding\rock-paper-scissors\node_modules\@parcel\runtime-js\src\helpers\node\wasm-loader.js133403999638326440 0
 110C:\Users\adamg\OneDrive\Coding\rock-paper-scissors\node_modules\eslint-plugin-jsx-a11y\docs\rules\aria-role.md133404020929348277 0
+176C:\Users\adamg\OneDrive\Coding\rock-paper-scissors\node_modules\.cache\gh-pages\https!github.com!adamggrover!rock-paper-scissors-game.git\.git\logs\refs\remotes\origin\gh-pages133413589082483204 0
 120C:\Users\adamg\OneDrive\Coding\rock-paper-scissors\node_modules\eslint-plugin-jsx-a11y\docs\rules\heading-has-content.md133404020930058942 0
 94C:\Users\adamg\OneDrive\Coding\rock-paper-scissors\node_modules\eslint-plugin-import\README.md133404020920794927 0
 110C:\Users\adamg\OneDrive\Coding\rock-paper-scissors\node_modules\aria-query\lib\etc\roles\dpub\docNoticeRole.js133404020901813210 0
@@ -12451,6 +12478,7 @@
 124C:\Users\adamg\OneDrive\Coding\rock-paper-scissors\node_modules\eslint-plugin-import\lib\rules\no-relative-parent-imports.js133404020900794384 0
 117C:\Users\adamg\OneDrive\Coding\rock-paper-scissors\node_modules\eslint-plugin-import\lib\rules\no-restricted-paths.js133404020901339613 0
 112C:\Users\adamg\OneDrive\Coding\rock-paper-scissors\node_modules\eslint-plugin-import\lib\rules\no-self-import.js133404020901781126 0
+172C:\Users\adamg\OneDrive\Coding\rock-paper-scissors\node_modules\.cache\gh-pages\https!github.com!adamggrover!rock-paper-scissors-game.git\.git\logs\refs\remotes\origin\HEAD133413589025080589 0
 109C:\Users\adamg\OneDrive\Coding\rock-paper-scissors\node_modules\@typescript-eslint\type-utils\dist\index.d.ts133404020903566351 0
 115C:\Users\adamg\OneDrive\Coding\rock-paper-scissors\node_modules\eslint-plugin-import\lib\rules\no-unused-modules.js133404020903375416 0
 87C:\Users\adamg\OneDrive\Coding\rock-paper-scissors\node_modules\aria-query\CHANGELOG.md133404020923877606 0
@@ -13350,6 +13378,7 @@
 136C:\Users\adamg\OneDrive\Coding\rock-paper-scissors\node_modules\@typescript-eslint\eslint-plugin\dist\rules\no-implicit-any-catch.js.map133404020936123862 0
 98C:\Users\adamg\OneDrive\Coding\rock-paper-scissors\node_modules\es5-ext\string\#\ends-with\shim.js133413582754380564 0
 98C:\Users\adamg\OneDrive\Coding\rock-paper-scissors\node_modules\es5-ext\string\#\contains\index.js133413582738380045 0
+149C:\Users\adamg\OneDrive\Coding\rock-paper-scissors\node_modules\.cache\gh-pages\https!github.com!adamggrover!rock-paper-scissors-game.git\.git\config133413589046149865 0
 107C:\Users\adamg\OneDrive\Coding\rock-paper-scissors\node_modules\es5-ext\string\#\contains\is-implemented.js133413582744663872 0
 97C:\Users\adamg\OneDrive\Coding\rock-paper-scissors\node_modules\es5-ext\string\#\contains\shim.js133413582754380564 0
 103C:\Users\adamg\OneDrive\Coding\rock-paper-scissors\node_modules\es5-ext\string\#\code-point-at\index.js133413582738356721 0
@@ -14010,6 +14039,7 @@
 100C:\Users\adamg\OneDrive\Coding\rock-paper-scissors\node_modules\css-tree\cjs\syntax\node\AnPlusB.cjs133403999586313361 0
 89C:\Users\adamg\OneDrive\Coding\rock-paper-scissors\node_modules\es-abstract\5\TimeClip.js133404020957032270 0
 93C:\Users\adamg\OneDrive\Coding\rock-paper-scissors\node_modules\es-abstract\5\TimeFromYear.js133404020957278837 0
+169C:\Users\adamg\OneDrive\Coding\rock-paper-scissors\node_modules\.cache\gh-pages\https!github.com!adamggrover!rock-paper-scissors-game.git\parcel-tailwind.59712999.js.map133413589041940674 0
 88C:\Users\adamg\OneDrive\Coding\rock-paper-scissors\node_modules\es-abstract\5\ToInt32.js133404020958107164 0
 111C:\Users\adamg\OneDrive\Coding\rock-paper-scissors\node_modules\caniuse-lite\data\features\fieldset-disabled.js133403999682703636 0
 90C:\Users\adamg\OneDrive\Coding\rock-paper-scissors\node_modules\es-abstract\5\ToInteger.js133404020958283847 0
@@ -14301,6 +14331,8 @@
 96C:\Users\adamg\OneDrive\Coding\rock-paper-scissors\node_modules\es-abstract\2022\IsExtensible.js133404020947831270 0
 82C:\Users\adamg\OneDrive\Coding\rock-paper-scissors\node_modules\camelcase\index.js133413582680515745 0
 100C:\Users\adamg\OneDrive\Coding\rock-paper-scissors\node_modules\es-abstract\2022\IsIntegralNumber.js133404020948034581 0
+133C:\Users\adamg\OneDrive\Coding\rock-paper-scissors\node_modules\@typescript-eslint\scope-manager\dist\lib\es2017.typedarrays.d.ts.map133404020931987777 0
+105C:\Users\adamg\OneDrive\Coding\rock-paper-scissors\node_modules\es-abstract\2022\IsNoTearConfiguration.js133404020948335681 0
 92C:\Users\adamg\OneDrive\Coding\rock-paper-scissors\node_modules\es-abstract\2022\IsRegExp.js133404020948741944 0
 99C:\Users\adamg\OneDrive\Coding\rock-paper-scissors\node_modules\es-abstract\2022\IsStrictlyEqual.js133404020948855333 0
 98C:\Users\adamg\OneDrive\Coding\rock-paper-scissors\node_modules\es-abstract\2022\IsStringPrefix.js133404020948943467 0
@@ -14646,6 +14678,7 @@
 98C:\Users\adamg\OneDrive\Coding\rock-paper-scissors\node_modules\es-abstract\2020\IsStringPrefix.js133404020948937654 0
 77C:\Users\adamg\OneDrive\Coding\rock-paper-scissors\node_modules\async\race.js133413566543283482 0
 94C:\Users\adamg\OneDrive\Coding\rock-paper-scissors\node_modules\es-abstract\2020\IsWordChar.js133404020949241508 0
+155C:\Users\adamg\OneDrive\Coding\rock-paper-scissors\node_modules\.cache\gh-pages\https!github.com!adamggrover!rock-paper-scissors-game.git\index.ff7d9ed1.js133413589041922586 0
 98C:\Users\adamg\OneDrive\Coding\rock-paper-scissors\node_modules\es-abstract\2020\IterableToList.js133404020949349890 0
 89C:\Users\adamg\OneDrive\Coding\rock-paper-scissors\node_modules\core-util-is\package.json133413582693291642 0
 100C:\Users\adamg\OneDrive\Coding\rock-paper-scissors\node_modules\es-abstract\2020\IteratorComplete.js133404020949551845 0
@@ -14668,6 +14701,7 @@
 126C:\Users\adamg\OneDrive\Coding\rock-paper-scissors\node_modules\@parcel\optimizer-svgo\node_modules\css-tree\lib\syntax\config133404024175005349 1
 102C:\Users\adamg\OneDrive\Coding\rock-paper-scissors\node_modules\css-tree\lib\syntax\node\WhiteSpace.js133403999677549411 0
 113C:\Users\adamg\OneDrive\Coding\rock-paper-scissors\node_modules\es-abstract\2020\OrdinaryCreateFromConstructor.js133404020952247666 0
+159C:\Users\adamg\OneDrive\Coding\rock-paper-scissors\node_modules\.cache\gh-pages\https!github.com!adamggrover!rock-paper-scissors-game.git\index.85bc7188.js.map133413589041922586 0
 103C:\Users\adamg\OneDrive\Coding\rock-paper-scissors\node_modules\es-abstract\2020\OrdinaryHasProperty.js133404020952874793 0
 104C:\Users\adamg\OneDrive\Coding\rock-paper-scissors\node_modules\es-abstract\2020\OrdinaryObjectCreate.js133404020952874793 0
 98C:\Users\adamg\OneDrive\Coding\rock-paper-scissors\node_modules\es-abstract\2020\PromiseResolve.js133404020953238823 0
@@ -14680,6 +14714,7 @@
 103C:\Users\adamg\OneDrive\Coding\rock-paper-scissors\node_modules\es-abstract\2020\SameValueNonNumeric.js133404020954039295 0
 99C:\Users\adamg\OneDrive\Coding\rock-paper-scissors\node_modules\es-abstract\2015\GetSubstitution.js133404020944799902 0
 97C:\Users\adamg\OneDrive\Coding\rock-paper-scissors\node_modules\es-abstract\2020\SameValueZero.js133404020954245246 0
+166C:\Users\adamg\OneDrive\Coding\rock-paper-scissors\node_modules\.cache\gh-pages\https!github.com!adamggrover!rock-paper-scissors-game.git\.git\hooks\pre-rebase.sample133413588943758709 0
 95C:\Users\adamg\OneDrive\Coding\rock-paper-scissors\node_modules\es-abstract\2020\SecFromTime.js133404020954374932 0
 101C:\Users\adamg\OneDrive\Coding\rock-paper-scissors\node_modules\es-abstract\2020\SetFunctionLength.js133404020954598608 0
 101C:\Users\adamg\OneDrive\Coding\rock-paper-scissors\node_modules\es-abstract\2020\SetIntegrityLevel.js133404020954841833 0
@@ -15248,6 +15283,7 @@
 94C:\Users\adamg\OneDrive\Coding\rock-paper-scissors\node_modules\es-abstract\2015\DaysInYear.js133404020939219526 0
 97C:\Users\adamg\OneDrive\Coding\rock-paper-scissors\node_modules\es-abstract\2015\DayWithinYear.js133404020939685003 0
 101C:\Users\adamg\OneDrive\Coding\rock-paper-scissors\node_modules\es-abstract\2015\DetachArrayBuffer.js133404020940710704 0
+156C:\Users\adamg\OneDrive\Coding\rock-paper-scissors\node_modules\.cache\gh-pages\https!github.com!adamggrover!rock-paper-scissors-game.git\index.bfebdad1.css133413589041922586 0
 89C:\Users\adamg\OneDrive\Coding\rock-paper-scissors\node_modules\es-abstract\2015\floor.js133404020942722981 0
 87C:\Users\adamg\OneDrive\Coding\rock-paper-scissors\node_modules\es-abstract\2015\Get.js133404020943233063 0
 95C:\Users\adamg\OneDrive\Coding\rock-paper-scissors\node_modules\es-abstract\2015\GetIterator.js133404020943676479 0
@@ -15763,8 +15799,6 @@
 110C:\Users\adamg\OneDrive\Coding\rock-paper-scissors\node_modules\csso\node_modules\css-tree\cjs\lexer\index.cjs133403999648954385 0
 103C:\Users\adamg\OneDrive\Coding\rock-paper-scissors\node_modules\css-tree\cjs\generator\token-before.cjs133403999665153194 0
 116C:\Users\adamg\OneDrive\Coding\rock-paper-scissors\node_modules\csso\node_modules\css-tree\cjs\lexer\match-graph.cjs133403999653504557 0
-83C:\Users\adamg\OneDrive\Coding\rock-paper-scissors\node_modules\cosmiconfig\LICENSE133403999571984240 0
-111C:\Users\adamg\OneDrive\Coding\rock-paper-scissors\node_modules\csso\node_modules\css-tree\cjs\lexer\search.cjs133403999660546984 0
 115C:\Users\adamg\OneDrive\Coding\rock-paper-scissors\node_modules\csso\node_modules\css-tree\cjs\generator\create.cjs133403999623727273 0
 114C:\Users\adamg\OneDrive\Coding\rock-paper-scissors\node_modules\csso\node_modules\css-tree\cjs\generator\index.cjs133403999648125275 0
 118C:\Users\adamg\OneDrive\Coding\rock-paper-scissors\node_modules\csso\node_modules\css-tree\cjs\generator\sourceMap.cjs133403999661428789 0
@@ -15811,6 +15845,7 @@
 85C:\Users\adamg\OneDrive\Coding\rock-paper-scissors\node_modules\base-x\src\index.d.ts133403999590047070 0
 91C:\Users\adamg\OneDrive\Coding\rock-paper-scissors\node_modules\@parcel\transformer-raw\src133404024219291616 1
 82C:\Users\adamg\OneDrive\Coding\rock-paper-scissors\node_modules\csso\cjs\utils.cjs133403999639285636 0
+148C:\Users\adamg\OneDrive\Coding\rock-paper-scissors\node_modules\.cache\gh-pages\https!github.com!adamggrover!rock-paper-scissors-game.git\index.html133413589041922586 0
 110C:\Users\adamg\OneDrive\Coding\rock-paper-scissors\node_modules\csso\cjs\restructure\2-initialMergeRuleset.cjs133403999582057013 0
 101C:\Users\adamg\OneDrive\Coding\rock-paper-scissors\node_modules\@parcel\runtime-react-refresh\LICENSE133403999572156594 0
 108C:\Users\adamg\OneDrive\Coding\rock-paper-scissors\node_modules\csso\cjs\restructure\4-restructShorthand.cjs133403999591332108 0
@@ -16428,6 +16463,7 @@
 95C:\Users\adamg\OneDrive\Coding\rock-paper-scissors\node_modules\caniuse-lite\data\regions\CI.js133403999663106255 0
 89C:\Users\adamg\OneDrive\Coding\rock-paper-scissors\node_modules\@jridgewell\set-array\src133404024111566609 1
 95C:\Users\adamg\OneDrive\Coding\rock-paper-scissors\node_modules\caniuse-lite\data\regions\CK.js133403999663362142 0
+155C:\Users\adamg\OneDrive\Coding\rock-paper-scissors\node_modules\.cache\gh-pages\https!github.com!adamggrover!rock-paper-scissors-game.git\index.4fd4ce8f.js133413589041898646 0
 95C:\Users\adamg\OneDrive\Coding\rock-paper-scissors\node_modules\caniuse-lite\data\regions\CM.js133403999664706151 0
 95C:\Users\adamg\OneDrive\Coding\rock-paper-scissors\node_modules\caniuse-lite\data\regions\CN.js133403999664917665 0
 95C:\Users\adamg\OneDrive\Coding\rock-paper-scissors\node_modules\caniuse-lite\data\regions\CO.js133403999665302491 0
@@ -16528,6 +16564,7 @@
 95C:\Users\adamg\OneDrive\Coding\rock-paper-scissors\node_modules\caniuse-lite\data\regions\UY.js133403999697854391 0
 95C:\Users\adamg\OneDrive\Coding\rock-paper-scissors\node_modules\caniuse-lite\data\regions\UZ.js133403999697865448 0
 95C:\Users\adamg\OneDrive\Coding\rock-paper-scissors\node_modules\caniuse-lite\data\regions\VE.js133403999698017194 0
+156C:\Users\adamg\OneDrive\Coding\rock-paper-scissors\node_modules\.cache\gh-pages\https!github.com!adamggrover!rock-paper-scissors-game.git\index.44edc3ff.css133413589041898646 0
 95C:\Users\adamg\OneDrive\Coding\rock-paper-scissors\node_modules\caniuse-lite\data\regions\VI.js133403999698094356 0
 129C:\Users\adamg\OneDrive\Coding\rock-paper-scissors\node_modules\@typescript-eslint\scope-manager\dist\referencer\Reference.js.map133404020939396519 0
 95C:\Users\adamg\OneDrive\Coding\rock-paper-scissors\node_modules\caniuse-lite\data\regions\WF.js133403999699093420 0
@@ -16606,6 +16643,7 @@
 110C:\Users\adamg\OneDrive\Coding\rock-paper-scissors\node_modules\caniuse-lite\data\features\css-first-letter.js133403999673048275 0
 107C:\Users\adamg\OneDrive\Coding\rock-paper-scissors\node_modules\array.prototype.findlastindex\test\tests.js133404020873342061 0
 103C:\Users\adamg\OneDrive\Coding\rock-paper-scissors\node_modules\caniuse-lite\data\features\css-fixed.js133403999673165641 0
+148C:\Users\adamg\OneDrive\Coding\rock-paper-scissors\node_modules\.cache\gh-pages\https!github.com!adamggrover!rock-paper-scissors-game.git\.git\hooks133413588943785555 1
 121C:\Users\adamg\OneDrive\Coding\rock-paper-scissors\node_modules\caniuse-lite\data\features\css-font-rendering-controls.js133403999673375529 0
 83C:\Users\adamg\OneDrive\Coding\rock-paper-scissors\node_modules\@babel\core\LICENSE133404020847834763 0
 108C:\Users\adamg\OneDrive\Coding\rock-paper-scissors\node_modules\@parcel\transformer-html\src\dependencies.js133403999583113637 0
@@ -16962,6 +17000,7 @@
 106C:\Users\adamg\OneDrive\Coding\rock-paper-scissors\node_modules\axobject-query\lib\etc\objects\MarkRole.js133404020904766058 0
 109C:\Users\adamg\OneDrive\Coding\rock-paper-scissors\node_modules\axobject-query\lib\etc\objects\MarqueeRole.js133404020905104205 0
 117C:\Users\adamg\OneDrive\Coding\rock-paper-scissors\node_modules\@typescript-eslint\eslint-plugin\docs\rules\indent.md133404020942722981 0
+159C:\Users\adamg\OneDrive\Coding\rock-paper-scissors\node_modules\.cache\gh-pages\https!github.com!adamggrover!rock-paper-scissors-game.git\index.4fd4ce8f.js.map133413589042378321 0
 106C:\Users\adamg\OneDrive\Coding\rock-paper-scissors\node_modules\axobject-query\lib\etc\objects\MathRole.js133404020905453986 0
 112C:\Users\adamg\OneDrive\Coding\rock-paper-scissors\node_modules\axobject-query\lib\etc\objects\MenuButtonRole.js133404020905959467 0
 129C:\Users\adamg\OneDrive\Coding\rock-paper-scissors\node_modules\@typescript-eslint\eslint-plugin\dist\rules\ban-tslint-comment.js133404020870563090 0
@@ -17200,6 +17239,7 @@
 89C:\Users\adamg\OneDrive\Coding\rock-paper-scissors\node_modules\array-initial\.travis.yml133413582710786947 0
 89C:\Users\adamg\OneDrive\Coding\rock-paper-scissors\node_modules\array-initial\LICENSE-MIT133413582713718024 0
 90C:\Users\adamg\OneDrive\Coding\rock-paper-scissors\node_modules\array-initial\node_modules133413582666321527 1
+156C:\Users\adamg\OneDrive\Coding\rock-paper-scissors\node_modules\.cache\gh-pages\https!github.com!adamggrover!rock-paper-scissors-game.git\paper.9e961607.png133413589041922586 0
 90C:\Users\adamg\OneDrive\Coding\rock-paper-scissors\node_modules\array-initial\package.json133413582681831827 0
 87C:\Users\adamg\OneDrive\Coding\rock-paper-scissors\node_modules\array-initial\README.md133413582699637911 0
 97C:\Users\adamg\OneDrive\Coding\rock-paper-scissors\node_modules\@typescript-eslint\parser\LICENSE133404020842970235 0
@@ -17362,6 +17402,7 @@
 72C:\Users\adamg\OneDrive\Coding\rock-paper-scissors\node_modules\ajv\dist133404024359142047 1
 89C:\Users\adamg\OneDrive\Coding\rock-paper-scissors\node_modules\ajv\scripts\.eslintrc.yml133404020914591847 0
 85C:\Users\adamg\OneDrive\Coding\rock-paper-scissors\node_modules\ajv\scripts\bundle.js133404020887543065 0
+192C:\Users\adamg\OneDrive\Coding\rock-paper-scissors\node_modules\.cache\gh-pages\https!github.com!adamggrover!rock-paper-scissors-game.git\.git\objects\45\48dbef1523484e22ebb3c67ba2d95d92524aee133413589044542206 0
 91C:\Users\adamg\OneDrive\Coding\rock-paper-scissors\node_modules\ajv\scripts\compile-dots.js133404020889042818 0
 82C:\Users\adamg\OneDrive\Coding\rock-paper-scissors\node_modules\ajv\lib\keyword.js133404020898009413 0
 76C:\Users\adamg\OneDrive\Coding\rock-paper-scissors\node_modules\ajv\lib\refs133404024363248799 1
@@ -17393,6 +17434,7 @@
 86C:\Users\adamg\OneDrive\Coding\rock-paper-scissors\node_modules\ajv\lib\dot\format.jst133404020909345381 0
 82C:\Users\adamg\OneDrive\Coding\rock-paper-scissors\node_modules\ajv\lib\dot\if.jst133404020909716688 0
 85C:\Users\adamg\OneDrive\Coding\rock-paper-scissors\node_modules\ajv\lib\dot\items.jst133404020909923204 0
+160C:\Users\adamg\OneDrive\Coding\rock-paper-scissors\node_modules\.cache\gh-pages\https!github.com!adamggrover!rock-paper-scissors-game.git\index.df881ad8.css.map133413589041922586 0
 85C:\Users\adamg\OneDrive\Coding\rock-paper-scissors\node_modules\ajv\lib\dot\oneOf.jst133404020910964685 0
 87C:\Users\adamg\OneDrive\Coding\rock-paper-scissors\node_modules\ajv\lib\dot\pattern.jst133404020911187977 0
 124C:\Users\adamg\OneDrive\Coding\rock-paper-scissors\node_modules\@typescript-eslint\utils\node_modules\estraverse\LICENSE.BSD133404020859276695 0
@@ -17764,7 +17806,9 @@
 114C:\Users\adamg\OneDrive\Coding\rock-paper-scissors\node_modules\@swc\helpers\esm\_class_apply_descriptor_update.js133403999664645684 0
 122C:\Users\adamg\OneDrive\Coding\rock-paper-scissors\node_modules\@typescript-eslint\scope-manager\dist\scope\WithScope.d.ts133404020944722059 0
 126C:\Users\adamg\OneDrive\Coding\rock-paper-scissors\node_modules\@typescript-eslint\scope-manager\dist\scope\WithScope.d.ts.map133404020940938377 0
+155C:\Users\adamg\OneDrive\Coding\rock-paper-scissors\node_modules\.cache\gh-pages\https!github.com!adamggrover!rock-paper-scissors-game.git\index.53a5cc0f.js133413589041898646 0
 128C:\Users\adamg\OneDrive\Coding\rock-paper-scissors\node_modules\@typescript-eslint\scope-manager\dist\referencer\ClassVisitor.js133404020873981830 0
+159C:\Users\adamg\OneDrive\Coding\rock-paper-scissors\node_modules\.cache\gh-pages\https!github.com!adamggrover!rock-paper-scissors-game.git\index.53a5cc0f.js.map133413589041898646 0
 132C:\Users\adamg\OneDrive\Coding\rock-paper-scissors\node_modules\@typescript-eslint\scope-manager\dist\referencer\ClassVisitor.js.map133404020926224338 0
 131C:\Users\adamg\OneDrive\Coding\rock-paper-scissors\node_modules\@typescript-eslint\scope-manager\dist\referencer\ExportVisitor.d.ts133404020943662109 0
 129C:\Users\adamg\OneDrive\Coding\rock-paper-scissors\node_modules\@typescript-eslint\scope-manager\dist\referencer\ExportVisitor.js133404020912301000 0
@@ -18062,6 +18106,7 @@
 142C:\Users\adamg\OneDrive\Coding\rock-paper-scissors\node_modules\@typescript-eslint\eslint-plugin\dist\rules\no-confusing-non-null-assertion.js133404020905463710 0
 146C:\Users\adamg\OneDrive\Coding\rock-paper-scissors\node_modules\@typescript-eslint\eslint-plugin\dist\rules\no-confusing-non-null-assertion.js.map133404020934776710 0
 139C:\Users\adamg\OneDrive\Coding\rock-paper-scissors\node_modules\@typescript-eslint\eslint-plugin\dist\rules\no-confusing-void-expression.js133404020905838492 0
+142C:\Users\adamg\OneDrive\Coding\rock-paper-scissors\node_modules\.cache\gh-pages\https!github.com!adamggrover!rock-paper-scissors-game.git\.git133413589047867221 1
 143C:\Users\adamg\OneDrive\Coding\rock-paper-scissors\node_modules\@typescript-eslint\eslint-plugin\dist\rules\no-confusing-void-expression.js.map133404020934776710 0
 132C:\Users\adamg\OneDrive\Coding\rock-paper-scissors\node_modules\@typescript-eslint\eslint-plugin\dist\rules\no-dupe-class-members.js133404020906112665 0
 135C:\Users\adamg\OneDrive\Coding\rock-paper-scissors\node_modules\@typescript-eslint\eslint-plugin\dist\rules\no-duplicate-enum-values.js133404020906327009 0
@@ -18099,6 +18144,7 @@
 143C:\Users\adamg\OneDrive\Coding\rock-paper-scissors\node_modules\@typescript-eslint\eslint-plugin\dist\rules\no-meaningless-void-operator.js.map133404020936882506 0
 104C:\Users\adamg\OneDrive\Coding\rock-paper-scissors\node_modules\@babel\runtime\helpers\writeOnlyError.js133404020931383803 0
 125C:\Users\adamg\OneDrive\Coding\rock-paper-scissors\node_modules\@typescript-eslint\eslint-plugin\dist\rules\no-misused-new.js133404020913079173 0
+153C:\Users\adamg\OneDrive\Coding\rock-paper-scissors\node_modules\.cache\gh-pages\https!github.com!adamggrover!rock-paper-scissors-game.git\.git\objects\63133413589044542206 1
 129C:\Users\adamg\OneDrive\Coding\rock-paper-scissors\node_modules\@typescript-eslint\eslint-plugin\dist\rules\no-misused-new.js.map133404020936950174 0
 130C:\Users\adamg\OneDrive\Coding\rock-paper-scissors\node_modules\@typescript-eslint\eslint-plugin\dist\rules\no-misused-promises.js133404020913467528 0
 125C:\Users\adamg\OneDrive\Coding\rock-paper-scissors\node_modules\@typescript-eslint\eslint-plugin\dist\rules\no-mixed-enums.js133404020913758836 0
@@ -18572,6 +18618,7 @@
 93C:\Users\adamg\OneDrive\Coding\rock-paper-scissors\node_modules\@swc\helpers\esm\_to_array.js133403999672883072 0
 100C:\Users\adamg\OneDrive\Coding\rock-paper-scissors\node_modules\@swc\helpers\esm\_to_property_key.js133403999672986761 0
 96C:\Users\adamg\OneDrive\Coding\rock-paper-scissors\node_modules\@swc\helpers\esm\_ts_decorate.js133403999673016695 0
+153C:\Users\adamg\OneDrive\Coding\rock-paper-scissors\node_modules\.cache\gh-pages\https!github.com!adamggrover!rock-paper-scissors-game.git\.git\objects\ac133413589044751799 1
 97C:\Users\adamg\OneDrive\Coding\rock-paper-scissors\node_modules\@swc\helpers\esm\_ts_generator.js133403999673055065 0
 96C:\Users\adamg\OneDrive\Coding\rock-paper-scissors\node_modules\@swc\helpers\esm\_ts_metadata.js133403999673098438 0
 93C:\Users\adamg\OneDrive\Coding\rock-paper-scissors\node_modules\@swc\helpers\esm\_ts_param.js133403999673165641 0
@@ -18615,6 +18662,7 @@
 114C:\Users\adamg\OneDrive\Coding\rock-paper-scissors\node_modules\@swc\helpers\cjs\_define_enumerable_properties.cjs133403999640397551 0
 93C:\Users\adamg\OneDrive\Coding\rock-paper-scissors\node_modules\@swc\helpers\cjs\_dispose.cjs133403999641418286 0
 79C:\Users\adamg\OneDrive\Coding\rock-paper-scissors\node_modules\.bin\nanoid.ps1133404013008565219 0
+148C:\Users\adamg\OneDrive\Coding\rock-paper-scissors\node_modules\.cache\gh-pages\https!github.com!adamggrover!rock-paper-scissors-game.git\.git\index133413589047725128 0
 97C:\Users\adamg\OneDrive\Coding\rock-paper-scissors\node_modules\@swc\helpers\cjs\_export_star.cjs133403999641922970 0
 93C:\Users\adamg\OneDrive\Coding\rock-paper-scissors\node_modules\@swc\helpers\cjs\_extends.cjs133403999642672838 0
 102C:\Users\adamg\OneDrive\Coding\rock-paper-scissors\node_modules\@swc\helpers\cjs\_get_prototype_of.cjs133403999643007664 0
@@ -18698,6 +18746,7 @@
 78C:\Users\adamg\OneDrive\Coding\rock-paper-scissors\node_modules\@parcel\logger133404024143673897 1
 85C:\Users\adamg\OneDrive\Coding\rock-paper-scissors\node_modules\@parcel\markdown-ansi133404024144149838 1
 85C:\Users\adamg\OneDrive\Coding\rock-paper-scissors\node_modules\@parcel\namer-default133404024144479387 1
+147C:\Users\adamg\OneDrive\Coding\rock-paper-scissors\node_modules\.cache\gh-pages\https!github.com!adamggrover!rock-paper-scissors-game.git\.git\info133413588943813000 1
 85C:\Users\adamg\OneDrive\Coding\rock-paper-scissors\node_modules\@parcel\optimizer-css133404024145889589 1
 86C:\Users\adamg\OneDrive\Coding\rock-paper-scissors\node_modules\@parcel\optimizer-svgo133404024189182162 1
 87C:\Users\adamg\OneDrive\Coding\rock-paper-scissors\node_modules\@parcel\package-manager133404024191155340 1
@@ -18744,6 +18793,7 @@
 97C:\Users\adamg\OneDrive\Coding\rock-paper-scissors\node_modules\@parcel\workers\src\childState.js133403999600871802 0
 92C:\Users\adamg\OneDrive\Coding\rock-paper-scissors\node_modules\@parcel\workers\src\index.js133403999618112692 0
 91C:\Users\adamg\OneDrive\Coding\rock-paper-scissors\node_modules\@parcel\workers\src\process133404024229890070 1
+155C:\Users\adamg\OneDrive\Coding\rock-paper-scissors\node_modules\.cache\gh-pages\https!github.com!adamggrover!rock-paper-scissors-game.git\index.78276221.js133413589041922586 0
 92C:\Users\adamg\OneDrive\Coding\rock-paper-scissors\node_modules\@parcel\workers\src\types.js133403999635918111 0
 107C:\Users\adamg\OneDrive\Coding\rock-paper-scissors\node_modules\@parcel\workers\src\threads\ThreadsChild.js133403999633125891 0
 108C:\Users\adamg\OneDrive\Coding\rock-paper-scissors\node_modules\@parcel\workers\src\threads\ThreadsWorker.js133403999634882606 0
@@ -19256,6 +19306,7 @@
 132C:\Users\adamg\OneDrive\Coding\rock-paper-scissors\node_modules\@parcel\optimizer-svgo\node_modules\css-tree\lib\syntax\node\Rule.js133403999662830775 0
 136C:\Users\adamg\OneDrive\Coding\rock-paper-scissors\node_modules\@parcel\optimizer-svgo\node_modules\css-tree\lib\syntax\node\Selector.js133403999663283869 0
 134C:\Users\adamg\OneDrive\Coding\rock-paper-scissors\node_modules\@parcel\optimizer-svgo\node_modules\css-tree\lib\syntax\node\String.js133403999664878370 0
+167C:\Users\adamg\OneDrive\Coding\rock-paper-scissors\node_modules\.cache\gh-pages\https!github.com!adamggrover!rock-paper-scissors-game.git\.git\refs\remotes\origin\HEAD133413589025080589 0
 138C:\Users\adamg\OneDrive\Coding\rock-paper-scissors\node_modules\@parcel\optimizer-svgo\node_modules\css-tree\lib\syntax\node\StyleSheet.js133403999665351146 0
 142C:\Users\adamg\OneDrive\Coding\rock-paper-scissors\node_modules\@parcel\optimizer-svgo\node_modules\css-tree\lib\syntax\function\expression.js133403999643007664 0
 135C:\Users\adamg\OneDrive\Coding\rock-paper-scissors\node_modules\@parcel\optimizer-svgo\node_modules\css-tree\lib\syntax\function\var.js133403999668083661 0
@@ -19791,6 +19842,7 @@
 102C:\Users\adamg\OneDrive\Coding\rock-paper-scissors\node_modules\@nodelib\fs.walk\out\readers\common.js133404012983092482 0
 104C:\Users\adamg\OneDrive\Coding\rock-paper-scissors\node_modules\@nodelib\fs.walk\out\readers\reader.d.ts133404012988916769 0
 102C:\Users\adamg\OneDrive\Coding\rock-paper-scissors\node_modules\@nodelib\fs.walk\out\readers\reader.js133404012986447942 0
+171C:\Users\adamg\OneDrive\Coding\rock-paper-scissors\node_modules\.cache\gh-pages\https!github.com!adamggrover!rock-paper-scissors-game.git\.git\refs\remotes\origin\gh-pages133413589082451353 0
 100C:\Users\adamg\OneDrive\Coding\rock-paper-scissors\node_modules\@nodelib\fs.walk\out\readers\sync.js133404012987396057 0
 105C:\Users\adamg\OneDrive\Coding\rock-paper-scissors\node_modules\@nodelib\fs.walk\out\providers\async.d.ts133404012987999230 0
 103C:\Users\adamg\OneDrive\Coding\rock-paper-scissors\node_modules\@nodelib\fs.walk\out\providers\async.js133404012979221608 0
@@ -19847,6 +19899,7 @@
 117C:\Users\adamg\OneDrive\Coding\rock-paper-scissors\node_modules\@msgpackr-extract\msgpackr-extract-win32-x64\index.js133403999571287865 0
 92C:\Users\adamg\OneDrive\Coding\rock-paper-scissors\node_modules\@babel\types\lib\utils\react133404024101565427 1
 125C:\Users\adamg\OneDrive\Coding\rock-paper-scissors\node_modules\@msgpackr-extract\msgpackr-extract-win32-x64\node.abi108.node133403999590026809 0
+205C:\Users\adamg\OneDrive\Coding\rock-paper-scissors\node_modules\.cache\gh-pages\https!github.com!adamggrover!rock-paper-scissors-game.git\.git\objects\pack\pack-2f330e1658cccdc122b5b8a860129a65f849a038.idx133413589024446559 0
 123C:\Users\adamg\OneDrive\Coding\rock-paper-scissors\node_modules\@msgpackr-extract\msgpackr-extract-win32-x64\node.napi.node133403999597837615 0
 118C:\Users\adamg\OneDrive\Coding\rock-paper-scissors\node_modules\@msgpackr-extract\msgpackr-extract-win32-x64\README.md133403999578985689 0
 84C:\Users\adamg\OneDrive\Coding\rock-paper-scissors\node_modules\@lmdb\lmdb-win32-x64133404024114841208 1
@@ -20632,6 +20685,92 @@
 107C:\Users\adamg\OneDrive\Coding\rock-paper-scissors\node_modules\@ampproject\remapping\dist\remapping.umd.js133404020848603964 0
 117C:\Users\adamg\OneDrive\Coding\rock-paper-scissors\node_modules\@ampproject\remapping\dist\types\source-map-tree.d.ts133404020872008185 0
 100C:\Users\adamg\OneDrive\Coding\rock-paper-scissors\node_modules\@aashutoshrathi\word-wrap\index.d.ts133404020856623342 0
+79C:\Users\adamg\OneDrive\Coding\rock-paper-scissors\node_modules\.cache\gh-pages133413588943532203 1
+137C:\Users\adamg\OneDrive\Coding\rock-paper-scissors\node_modules\.cache\gh-pages\https!github.com!adamggrover!rock-paper-scissors-game.git133413589041787055 1
+156C:\Users\adamg\OneDrive\Coding\rock-paper-scissors\node_modules\.cache\gh-pages\https!github.com!adamggrover!rock-paper-scissors-game.git\index.0216031a.css133413589041898646 0
+160C:\Users\adamg\OneDrive\Coding\rock-paper-scissors\node_modules\.cache\gh-pages\https!github.com!adamggrover!rock-paper-scissors-game.git\index.0216031a.css.map133413589041898646 0
+155C:\Users\adamg\OneDrive\Coding\rock-paper-scissors\node_modules\.cache\gh-pages\https!github.com!adamggrover!rock-paper-scissors-game.git\index.0641b553.js133413589041898646 0
+164C:\Users\adamg\OneDrive\Coding\rock-paper-scissors\node_modules\.cache\gh-pages\https!github.com!adamggrover!rock-paper-scissors-game.git\index.0641b553.js.20632.2s133413589041898646 0
+163C:\Users\adamg\OneDrive\Coding\rock-paper-scissors\node_modules\.cache\gh-pages\https!github.com!adamggrover!rock-paper-scissors-game.git\index.0641b553.js.8000.af133413589041898646 0
+159C:\Users\adamg\OneDrive\Coding\rock-paper-scissors\node_modules\.cache\gh-pages\https!github.com!adamggrover!rock-paper-scissors-game.git\index.0641b553.js.map133413589041898646 0
+168C:\Users\adamg\OneDrive\Coding\rock-paper-scissors\node_modules\.cache\gh-pages\https!github.com!adamggrover!rock-paper-scissors-game.git\index.0641b553.js.map.15608.1r133413589041898646 0
+156C:\Users\adamg\OneDrive\Coding\rock-paper-scissors\node_modules\.cache\gh-pages\https!github.com!adamggrover!rock-paper-scissors-game.git\index.0f410392.css133413589041898646 0
+160C:\Users\adamg\OneDrive\Coding\rock-paper-scissors\node_modules\.cache\gh-pages\https!github.com!adamggrover!rock-paper-scissors-game.git\index.0f410392.css.map133413589041898646 0
+155C:\Users\adamg\OneDrive\Coding\rock-paper-scissors\node_modules\.cache\gh-pages\https!github.com!adamggrover!rock-paper-scissors-game.git\index.2f6ef961.js133413589041898646 0
+159C:\Users\adamg\OneDrive\Coding\rock-paper-scissors\node_modules\.cache\gh-pages\https!github.com!adamggrover!rock-paper-scissors-game.git\index.2f6ef961.js.map133413589041898646 0
+155C:\Users\adamg\OneDrive\Coding\rock-paper-scissors\node_modules\.cache\gh-pages\https!github.com!adamggrover!rock-paper-scissors-game.git\index.3dc0915e.js133413589041898646 0
+160C:\Users\adamg\OneDrive\Coding\rock-paper-scissors\node_modules\.cache\gh-pages\https!github.com!adamggrover!rock-paper-scissors-game.git\index.44edc3ff.css.map133413589041898646 0
+156C:\Users\adamg\OneDrive\Coding\rock-paper-scissors\node_modules\.cache\gh-pages\https!github.com!adamggrover!rock-paper-scissors-game.git\index.56ed3468.css133413589041898646 0
+156C:\Users\adamg\OneDrive\Coding\rock-paper-scissors\node_modules\.cache\gh-pages\https!github.com!adamggrover!rock-paper-scissors-game.git\index.5eef317b.css133413589041898646 0
+156C:\Users\adamg\OneDrive\Coding\rock-paper-scissors\node_modules\.cache\gh-pages\https!github.com!adamggrover!rock-paper-scissors-game.git\index.61d3354a.css133413589041898646 0
+164C:\Users\adamg\OneDrive\Coding\rock-paper-scissors\node_modules\.cache\gh-pages\https!github.com!adamggrover!rock-paper-scissors-game.git\index.61d3354a.css.10420.i133413589041898646 0
+163C:\Users\adamg\OneDrive\Coding\rock-paper-scissors\node_modules\.cache\gh-pages\https!github.com!adamggrover!rock-paper-scissors-game.git\index.61d3354a.css.2144.m133413589041898646 0
+160C:\Users\adamg\OneDrive\Coding\rock-paper-scissors\node_modules\.cache\gh-pages\https!github.com!adamggrover!rock-paper-scissors-game.git\index.61d3354a.css.map133413589041898646 0
+169C:\Users\adamg\OneDrive\Coding\rock-paper-scissors\node_modules\.cache\gh-pages\https!github.com!adamggrover!rock-paper-scissors-game.git\index.61d3354a.css.map.10076.1b133413589041898646 0
+168C:\Users\adamg\OneDrive\Coding\rock-paper-scissors\node_modules\.cache\gh-pages\https!github.com!adamggrover!rock-paper-scissors-game.git\index.61d3354a.css.map.1292.19133413589041898646 0
+169C:\Users\adamg\OneDrive\Coding\rock-paper-scissors\node_modules\.cache\gh-pages\https!github.com!adamggrover!rock-paper-scissors-game.git\index.61d3354a.css.map.21872.22133413589041898646 0
+168C:\Users\adamg\OneDrive\Coding\rock-paper-scissors\node_modules\.cache\gh-pages\https!github.com!adamggrover!rock-paper-scissors-game.git\index.61d3354a.css.map.23292.r133413589041898646 0
+167C:\Users\adamg\OneDrive\Coding\rock-paper-scissors\node_modules\.cache\gh-pages\https!github.com!adamggrover!rock-paper-scissors-game.git\index.61d3354a.css.map.324.2e133413589041898646 0
+168C:\Users\adamg\OneDrive\Coding\rock-paper-scissors\node_modules\.cache\gh-pages\https!github.com!adamggrover!rock-paper-scissors-game.git\index.61d3354a.css.map.8000.ag133413589041697572 0
+167C:\Users\adamg\OneDrive\Coding\rock-paper-scissors\node_modules\.cache\gh-pages\https!github.com!adamggrover!rock-paper-scissors-game.git\index.61d3354a.css.map.9340.f133413589041922586 0
+155C:\Users\adamg\OneDrive\Coding\rock-paper-scissors\node_modules\.cache\gh-pages\https!github.com!adamggrover!rock-paper-scissors-game.git\index.816e7b21.js133413589041922586 0
+159C:\Users\adamg\OneDrive\Coding\rock-paper-scissors\node_modules\.cache\gh-pages\https!github.com!adamggrover!rock-paper-scissors-game.git\index.816e7b21.js.map133413589041922586 0
+156C:\Users\adamg\OneDrive\Coding\rock-paper-scissors\node_modules\.cache\gh-pages\https!github.com!adamggrover!rock-paper-scissors-game.git\index.8a5889ec.css133413589041922586 0
+160C:\Users\adamg\OneDrive\Coding\rock-paper-scissors\node_modules\.cache\gh-pages\https!github.com!adamggrover!rock-paper-scissors-game.git\index.8a5889ec.css.map133413589041922586 0
+159C:\Users\adamg\OneDrive\Coding\rock-paper-scissors\node_modules\.cache\gh-pages\https!github.com!adamggrover!rock-paper-scissors-game.git\index.8d6744b7.js.map133413589041922586 0
+155C:\Users\adamg\OneDrive\Coding\rock-paper-scissors\node_modules\.cache\gh-pages\https!github.com!adamggrover!rock-paper-scissors-game.git\index.a027cb2c.js133413589041922586 0
+160C:\Users\adamg\OneDrive\Coding\rock-paper-scissors\node_modules\.cache\gh-pages\https!github.com!adamggrover!rock-paper-scissors-game.git\index.a8b2efc1.css.map133413589041922586 0
+155C:\Users\adamg\OneDrive\Coding\rock-paper-scissors\node_modules\.cache\gh-pages\https!github.com!adamggrover!rock-paper-scissors-game.git\index.b07caa4c.js133413589041922586 0
+159C:\Users\adamg\OneDrive\Coding\rock-paper-scissors\node_modules\.cache\gh-pages\https!github.com!adamggrover!rock-paper-scissors-game.git\index.b07caa4c.js.map133413589041922586 0
+160C:\Users\adamg\OneDrive\Coding\rock-paper-scissors\node_modules\.cache\gh-pages\https!github.com!adamggrover!rock-paper-scissors-game.git\index.bfebdad1.css.map133413589041922586 0
+159C:\Users\adamg\OneDrive\Coding\rock-paper-scissors\node_modules\.cache\gh-pages\https!github.com!adamggrover!rock-paper-scissors-game.git\index.df05bbcc.js.map133413589041922586 0
+156C:\Users\adamg\OneDrive\Coding\rock-paper-scissors\node_modules\.cache\gh-pages\https!github.com!adamggrover!rock-paper-scissors-game.git\index.df881ad8.css133413589041922586 0
+155C:\Users\adamg\OneDrive\Coding\rock-paper-scissors\node_modules\.cache\gh-pages\https!github.com!adamggrover!rock-paper-scissors-game.git\index.f958b03f.js133413589041922586 0
+159C:\Users\adamg\OneDrive\Coding\rock-paper-scissors\node_modules\.cache\gh-pages\https!github.com!adamggrover!rock-paper-scissors-game.git\index.f958b03f.js.map133413589041922586 0
+159C:\Users\adamg\OneDrive\Coding\rock-paper-scissors\node_modules\.cache\gh-pages\https!github.com!adamggrover!rock-paper-scissors-game.git\index.ff7d9ed1.js.map133413589041922586 0
+156C:\Users\adamg\OneDrive\Coding\rock-paper-scissors\node_modules\.cache\gh-pages\https!github.com!adamggrover!rock-paper-scissors-game.git\paper.8009adad.png133413589041922586 0
+165C:\Users\adamg\OneDrive\Coding\rock-paper-scissors\node_modules\.cache\gh-pages\https!github.com!adamggrover!rock-paper-scissors-game.git\parcel-tailwind.59712999.js133413589041922586 0
+159C:\Users\adamg\OneDrive\Coding\rock-paper-scissors\node_modules\.cache\gh-pages\https!github.com!adamggrover!rock-paper-scissors-game.git\question.ae26f991.png133413589041940674 0
+155C:\Users\adamg\OneDrive\Coding\rock-paper-scissors\node_modules\.cache\gh-pages\https!github.com!adamggrover!rock-paper-scissors-game.git\rock.6d65db19.png133413589041940674 0
+155C:\Users\adamg\OneDrive\Coding\rock-paper-scissors\node_modules\.cache\gh-pages\https!github.com!adamggrover!rock-paper-scissors-game.git\rock.d83ea0b4.png133413589041940674 0
+164C:\Users\adamg\OneDrive\Coding\rock-paper-scissors\node_modules\.cache\gh-pages\https!github.com!adamggrover!rock-paper-scissors-game.git\rock.d83ea0b4.png.20476.1n133413589041940674 0
+159C:\Users\adamg\OneDrive\Coding\rock-paper-scissors\node_modules\.cache\gh-pages\https!github.com!adamggrover!rock-paper-scissors-game.git\scissors.4534bd70.png133413589041940674 0
+168C:\Users\adamg\OneDrive\Coding\rock-paper-scissors\node_modules\.cache\gh-pages\https!github.com!adamggrover!rock-paper-scissors-game.git\scissors.68e75d14.png.20476.1o133413589041940674 0
+157C:\Users\adamg\OneDrive\Coding\rock-paper-scissors\node_modules\.cache\gh-pages\https!github.com!adamggrover!rock-paper-scissors-game.git\.git\COMMIT_EDITMSG133413589047725128 0
+154C:\Users\adamg\OneDrive\Coding\rock-paper-scissors\node_modules\.cache\gh-pages\https!github.com!adamggrover!rock-paper-scissors-game.git\.git\description133413588943532203 0
+153C:\Users\adamg\OneDrive\Coding\rock-paper-scissors\node_modules\.cache\gh-pages\https!github.com!adamggrover!rock-paper-scissors-game.git\.git\FETCH_HEAD133413589037219676 0
+147C:\Users\adamg\OneDrive\Coding\rock-paper-scissors\node_modules\.cache\gh-pages\https!github.com!adamggrover!rock-paper-scissors-game.git\.git\HEAD133413589040140903 0
+147C:\Users\adamg\OneDrive\Coding\rock-paper-scissors\node_modules\.cache\gh-pages\https!github.com!adamggrover!rock-paper-scissors-game.git\.git\logs133413589025094197 1
+150C:\Users\adamg\OneDrive\Coding\rock-paper-scissors\node_modules\.cache\gh-pages\https!github.com!adamggrover!rock-paper-scissors-game.git\.git\objects133413589048196977 1
+147C:\Users\adamg\OneDrive\Coding\rock-paper-scissors\node_modules\.cache\gh-pages\https!github.com!adamggrover!rock-paper-scissors-game.git\.git\refs133413589024996612 1
+155C:\Users\adamg\OneDrive\Coding\rock-paper-scissors\node_modules\.cache\gh-pages\https!github.com!adamggrover!rock-paper-scissors-game.git\.git\refs\remotes133413589024996612 1
+152C:\Users\adamg\OneDrive\Coding\rock-paper-scissors\node_modules\.cache\gh-pages\https!github.com!adamggrover!rock-paper-scissors-game.git\.git\refs\tags133413588943813000 1
+162C:\Users\adamg\OneDrive\Coding\rock-paper-scissors\node_modules\.cache\gh-pages\https!github.com!adamggrover!rock-paper-scissors-game.git\.git\refs\remotes\origin133413589082483204 1
+162C:\Users\adamg\OneDrive\Coding\rock-paper-scissors\node_modules\.cache\gh-pages\https!github.com!adamggrover!rock-paper-scissors-game.git\.git\refs\heads\gh-pages133413589047807785 0
+160C:\Users\adamg\OneDrive\Coding\rock-paper-scissors\node_modules\.cache\gh-pages\https!github.com!adamggrover!rock-paper-scissors-game.git\.git\refs\heads\master133413589025094197 0
+153C:\Users\adamg\OneDrive\Coding\rock-paper-scissors\node_modules\.cache\gh-pages\https!github.com!adamggrover!rock-paper-scissors-game.git\.git\objects\45133413589044542206 1
+153C:\Users\adamg\OneDrive\Coding\rock-paper-scissors\node_modules\.cache\gh-pages\https!github.com!adamggrover!rock-paper-scissors-game.git\.git\objects\e8133413589044751799 1
+153C:\Users\adamg\OneDrive\Coding\rock-paper-scissors\node_modules\.cache\gh-pages\https!github.com!adamggrover!rock-paper-scissors-game.git\.git\objects\ed133413589047567742 1
+206C:\Users\adamg\OneDrive\Coding\rock-paper-scissors\node_modules\.cache\gh-pages\https!github.com!adamggrover!rock-paper-scissors-game.git\.git\objects\pack\pack-2f330e1658cccdc122b5b8a860129a65f849a038.pack133413589044380181 0
+192C:\Users\adamg\OneDrive\Coding\rock-paper-scissors\node_modules\.cache\gh-pages\https!github.com!adamggrover!rock-paper-scissors-game.git\.git\objects\ed\68fd6d8861baf8845e4d80cab79607eadaf8f8133413589047567742 0
+192C:\Users\adamg\OneDrive\Coding\rock-paper-scissors\node_modules\.cache\gh-pages\https!github.com!adamggrover!rock-paper-scissors-game.git\.git\objects\e8\3131d2366b3eb37939eda8904332da4431d30a133413589044751799 0
+192C:\Users\adamg\OneDrive\Coding\rock-paper-scissors\node_modules\.cache\gh-pages\https!github.com!adamggrover!rock-paper-scissors-game.git\.git\objects\ac\fc3ca2cde44afade9224c1a318b10e2fe7de33133413589044698702 0
+192C:\Users\adamg\OneDrive\Coding\rock-paper-scissors\node_modules\.cache\gh-pages\https!github.com!adamggrover!rock-paper-scissors-game.git\.git\objects\64\ad7efdee1b4538d97d5874f2943766411c0232133413589047787788 0
+152C:\Users\adamg\OneDrive\Coding\rock-paper-scissors\node_modules\.cache\gh-pages\https!github.com!adamggrover!rock-paper-scissors-game.git\.git\logs\refs133413589025094197 1
+158C:\Users\adamg\OneDrive\Coding\rock-paper-scissors\node_modules\.cache\gh-pages\https!github.com!adamggrover!rock-paper-scissors-game.git\.git\logs\refs\heads133413589047807785 1
+160C:\Users\adamg\OneDrive\Coding\rock-paper-scissors\node_modules\.cache\gh-pages\https!github.com!adamggrover!rock-paper-scissors-game.git\.git\logs\refs\remotes133413589025064935 1
+167C:\Users\adamg\OneDrive\Coding\rock-paper-scissors\node_modules\.cache\gh-pages\https!github.com!adamggrover!rock-paper-scissors-game.git\.git\logs\refs\heads\gh-pages133413589047807785 0
+165C:\Users\adamg\OneDrive\Coding\rock-paper-scissors\node_modules\.cache\gh-pages\https!github.com!adamggrover!rock-paper-scissors-game.git\.git\logs\refs\heads\master133413589025160554 0
+155C:\Users\adamg\OneDrive\Coding\rock-paper-scissors\node_modules\.cache\gh-pages\https!github.com!adamggrover!rock-paper-scissors-game.git\.git\info\exclude133413588943813000 0
+170C:\Users\adamg\OneDrive\Coding\rock-paper-scissors\node_modules\.cache\gh-pages\https!github.com!adamggrover!rock-paper-scissors-game.git\.git\hooks\applypatch-msg.sample133413588943682104 0
+166C:\Users\adamg\OneDrive\Coding\rock-paper-scissors\node_modules\.cache\gh-pages\https!github.com!adamggrover!rock-paper-scissors-game.git\.git\hooks\commit-msg.sample133413588943682104 0
+174C:\Users\adamg\OneDrive\Coding\rock-paper-scissors\node_modules\.cache\gh-pages\https!github.com!adamggrover!rock-paper-scissors-game.git\.git\hooks\fsmonitor-watchman.sample133413588943700527 0
+167C:\Users\adamg\OneDrive\Coding\rock-paper-scissors\node_modules\.cache\gh-pages\https!github.com!adamggrover!rock-paper-scissors-game.git\.git\hooks\post-update.sample133413588943700527 0
+170C:\Users\adamg\OneDrive\Coding\rock-paper-scissors\node_modules\.cache\gh-pages\https!github.com!adamggrover!rock-paper-scissors-game.git\.git\hooks\pre-applypatch.sample133413588943700527 0
+166C:\Users\adamg\OneDrive\Coding\rock-paper-scissors\node_modules\.cache\gh-pages\https!github.com!adamggrover!rock-paper-scissors-game.git\.git\hooks\pre-commit.sample133413588943700527 0
+167C:\Users\adamg\OneDrive\Coding\rock-paper-scissors\node_modules\.cache\gh-pages\https!github.com!adamggrover!rock-paper-scissors-game.git\.git\hooks\pre-receive.sample133413588943758709 0
+174C:\Users\adamg\OneDrive\Coding\rock-paper-scissors\node_modules\.cache\gh-pages\https!github.com!adamggrover!rock-paper-scissors-game.git\.git\hooks\prepare-commit-msg.sample133413588943758709 0
+172C:\Users\adamg\OneDrive\Coding\rock-paper-scissors\node_modules\.cache\gh-pages\https!github.com!adamggrover!rock-paper-scissors-game.git\.git\hooks\push-to-checkout.sample133413588943785555 0
 74C:\Users\adamg\OneDrive\Coding\rock-paper-scissors\node_modules\.bin\acorn133404020962406561 0
 78C:\Users\adamg\OneDrive\Coding\rock-paper-scissors\node_modules\.bin\acorn.cmd133404020962406561 0
 78C:\Users\adamg\OneDrive\Coding\rock-paper-scissors\node_modules\.bin\acorn.ps1133404020962406561 0
@@ -20732,4 +20871,3 @@
 82C:\Users\adamg\OneDrive\Coding\rock-paper-scissors\dist\rock.d83ea0b4.png.20476.1n133411034720398350 0
 77C:\Users\adamg\OneDrive\Coding\rock-paper-scissors\dist\scissors.68e75d14.png133413492769979235 0
 86C:\Users\adamg\OneDrive\Coding\rock-paper-scissors\dist\scissors.68e75d14.png.20476.1o133411034720427406 0
-68C:\Users\adamg\OneDrive\Coding\rock-paper-scissors\.github\workflows133413441442037026 1
