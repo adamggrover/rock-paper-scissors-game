@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "private": "true",
   "description": "",
-  "homepage": "http://adamggrover.github.io/rock-paper-scissors-game",
+  "homepage": "https://adamggrover.github.io/rock-paper-scissors-game/",
   "source": "src/index.html",
   "scripts": {
     "start": "parcel",
