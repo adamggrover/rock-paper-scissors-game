@@ -76,17 +76,19 @@ function playRound(computerSelection, playerSelection) {
   const drawMsg = `Tie round`;
   const drawSummary = `You both chose ${playerSelection}`;
 
-  if (computerSelection === 'rock' && playerSelection === 'paper') ||
-  (computerSelection === 'paper' && playerSelection === 'scissors') ||
-  (computerSelection === 'scissors' && playerSelection === 'rock')
-  {
+  if (
+    (computerSelection === 'rock' && playerSelection === 'paper') ||
+    (computerSelection === 'paper' && playerSelection === 'scissors') ||
+    (computerSelection === 'scissors' && playerSelection === 'rock')
+  ) {
     userScore += 1;
     return [winMsg, winSummary, computerSelection, playerSelection];
   }
-  if (computerSelection === 'rock' && playerSelection === 'scissors') ||
-  (computerSelection === 'paper' && playerSelection === 'rock') ||
-  (computerSelection === 'scissors' && playerSelection === 'paper')
-  {
+  if (
+    (computerSelection === 'rock' && playerSelection === 'scissors') ||
+    (computerSelection === 'paper' && playerSelection === 'rock') ||
+    (computerSelection === 'scissors' && playerSelection === 'paper')
+  ) {
     computerScore += 1;
     return [loseMsg, loseSummary, computerSelection, playerSelection];
   }

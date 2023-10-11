@@ -643,22 +643,24 @@ function playRound(computerSelection, playerSelection) {
     const loseSummary = `${computerSelection} beats ${playerSelection}`;
     const drawMsg = `Tie round`;
     const drawSummary = `You both chose ${playerSelection}`;
-    if (computerSelection === "rock" && playerSelection === "paper") computerSelection === "paper" && playerSelection === "scissors" || computerSelection === "scissors" && playerSelection;
-    userScore += 1;
-    return [
-        winMsg,
-        winSummary,
-        computerSelection,
-        playerSelection
-    ];
-    if (computerSelection === "rock" && playerSelection === "scissors") computerSelection === "paper" && playerSelection === "rock" || computerSelection === "scissors" && playerSelection;
-    computerScore += 1;
-    return [
-        loseMsg,
-        loseSummary,
-        computerSelection,
-        playerSelection
-    ];
+    if (computerSelection === "rock" && playerSelection === "paper" || computerSelection === "paper" && playerSelection === "scissors" || computerSelection === "scissors" && playerSelection === "rock") {
+        userScore += 1;
+        return [
+            winMsg,
+            winSummary,
+            computerSelection,
+            playerSelection
+        ];
+    }
+    if (computerSelection === "rock" && playerSelection === "scissors" || computerSelection === "paper" && playerSelection === "rock" || computerSelection === "scissors" && playerSelection === "paper") {
+        computerScore += 1;
+        return [
+            loseMsg,
+            loseSummary,
+            computerSelection,
+            playerSelection
+        ];
+    }
     return [
         drawMsg,
         drawSummary,
